@@ -1,0 +1,1777 @@
+{
+  "dossier": "/Users/paul/Downloads/psychologuemerignac-recu",
+  "date": "2026-11-20T20:09:41.244Z",
+  "detection": "Vision (macOS) + mesures sharp",
+  "planches": [
+    "planche.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "logo.jpg",
+      "nom": "logo",
+      "drapeau": "logo",
+      "largeur": 686,
+      "hauteur": 383,
+      "ratio": "16:9",
+      "ratio_valeur": 1.791,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 224669,
+      "transparence": false,
+      "sujet": {
+        "x": 16.2,
+        "y": 15.2,
+        "l": 63.6,
+        "h": 84.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        48
+      ],
+      "cadrage_css": "46% 48%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.64,
+          "ton": "clair",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "droite",
+          "score": 0.55,
+          "ton": "clair",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "gauche",
+          "score": 0.53,
+          "ton": "clair",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "bas",
+          "score": 0.46,
+          "ton": "clair",
+          "recouvre_sujet": 0.64
+        }
+      ],
+      "qualite": {
+        "nettete": 18.2,
+        "bruit": 0.79,
+        "compression": 1.15,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "587932b2e4c4c869",
+      "drapeaux": [
+        "logo"
+      ]
+    },
+    {
+      "fichier": "logo-2.jpg",
+      "nom": "logo-2",
+      "drapeau": "logo",
+      "largeur": 633,
+      "hauteur": 338,
+      "ratio": "1.87",
+      "ratio_valeur": 1.873,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 31893,
+      "transparence": false,
+      "sujet": {
+        "x": 9.6,
+        "y": 18.2,
+        "l": 82.1,
+        "h": 41.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        41,
+        38
+      ],
+      "cadrage_css": "41% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.09,
+          "ton": "clair",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "clair",
+          "recouvre_sujet": 0.33
+        },
+        {
+          "cote": "haut",
+          "score": 0.06,
+          "ton": "clair",
+          "recouvre_sujet": 0.39
+        }
+      ],
+      "qualite": {
+        "nettete": 66,
+        "bruit": 0.44,
+        "compression": 0.89,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "logo",
+        "a_verifier": false,
+        "texte": "Qualiopi » · processus certifié · = • RÉPUBLIQUE FRANÇAISE",
+        "blocs": 3,
+        "surface": 45.9,
+        "details": [
+          {
+            "texte": "Qualiopi »",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "processus certifié",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "= • RÉPUBLIQUE FRANÇAISE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "21575721275b4b00",
+      "drapeaux": [
+        "logo",
+        "texte du logo"
+      ]
+    },
+    {
+      "fichier": "logo-3.jpg",
+      "nom": "logo-3",
+      "drapeau": "logo",
+      "largeur": 500,
+      "hauteur": 344,
+      "ratio": "1.45",
+      "ratio_valeur": 1.453,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 27722,
+      "transparence": false,
+      "sujet": {
+        "x": 8.2,
+        "y": 0.4,
+        "l": 84.6,
+        "h": 89.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        46
+      ],
+      "cadrage_css": "49% 46%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.32,
+          "ton": "clair",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "droite",
+          "score": 0.29,
+          "ton": "clair",
+          "recouvre_sujet": 0.73
+        },
+        {
+          "cote": "gauche",
+          "score": 0.27,
+          "ton": "clair",
+          "recouvre_sujet": 0.71
+        },
+        {
+          "cote": "bas",
+          "score": 0.25,
+          "ton": "clair",
+          "recouvre_sujet": 0.6
+        }
+      ],
+      "qualite": {
+        "nettete": 43.8,
+        "bruit": 0.53,
+        "compression": 1.07,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "logo",
+        "a_verifier": false,
+        "texte": "CABINET DE LA · FORÊT · Former · Soutenir · Inspirer · Accompagner les professionnels de santé",
+        "blocs": 6,
+        "surface": 7.2,
+        "details": [
+          {
+            "texte": "CABINET DE LA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "FORÊT",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Former",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Soutenir",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Inspirer",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Accompagner les professionnels de santé",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "517565494955756b",
+      "drapeaux": [
+        "logo",
+        "texte du logo"
+      ]
+    },
+    {
+      "fichier": "image-montre-salon-se.jpg",
+      "nom": "image-montre-salon-se",
+      "drapeau": "portrait",
+      "largeur": 2000,
+      "hauteur": 1192,
+      "ratio": "1.68",
+      "ratio_valeur": 1.678,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 424439,
+      "transparence": false,
+      "sujet": {
+        "x": 40.9,
+        "y": 10.1,
+        "l": 58.8,
+        "h": 79.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        63,
+        45
+      ],
+      "cadrage_css": "63% 45%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.5,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.43,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "bas",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0.41
+        },
+        {
+          "cote": "droite",
+          "score": 0.28,
+          "ton": "moyen",
+          "recouvre_sujet": 0.79
+        }
+      ],
+      "qualite": {
+        "nettete": 43.6,
+        "bruit": 1.18,
+        "compression": 1.16,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "3f6e75f9d3f33b1b",
+      "drapeaux": [
+        "portrait"
+      ]
+    },
+    {
+      "fichier": "image-montre-cabinet-psychotherapie.jpg",
+      "nom": "image-montre-cabinet-psychotherapie",
+      "drapeau": "lieu",
+      "largeur": 1622,
+      "hauteur": 913,
+      "ratio": "16:9",
+      "ratio_valeur": 1.777,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 288322,
+      "transparence": false,
+      "sujet": {
+        "x": 5.5,
+        "y": 13.5,
+        "l": 58.3,
+        "h": 66.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        43,
+        38
+      ],
+      "cadrage_css": "43% 38%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.41,
+          "ton": "moyen",
+          "recouvre_sujet": 0.06
+        },
+        {
+          "cote": "bas",
+          "score": 0.4,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0.3,
+          "ton": "moyen",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "gauche",
+          "score": 0.27,
+          "ton": "moyen",
+          "recouvre_sujet": 0.57
+        }
+      ],
+      "qualite": {
+        "nettete": 35,
+        "bruit": 0.84,
+        "compression": 0.96,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "db9fc7c762eae66f",
+      "drapeaux": [
+        "lieu"
+      ]
+    },
+    {
+      "fichier": "image-montre-interieur-lumineux.jpg",
+      "nom": "image-montre-interieur-lumineux",
+      "drapeau": "lieu",
+      "largeur": 1280,
+      "hauteur": 906,
+      "ratio": "1.41",
+      "ratio_valeur": 1.413,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 174425,
+      "transparence": false,
+      "sujet": {
+        "x": 62.4,
+        "y": 39.5,
+        "l": 37,
+        "h": 48.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        72,
+        58
+      ],
+      "cadrage_css": "72% 58%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.68,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.44,
+          "ton": "sombre",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "gauche",
+          "score": 0.43,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.33,
+          "ton": "moyen",
+          "recouvre_sujet": 0.45
+        }
+      ],
+      "qualite": {
+        "nettete": 30.7,
+        "bruit": 0.63,
+        "compression": 1.3,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": false,
+      "empreinte": "88c98cd4707371f1",
+      "drapeaux": [
+        "lieu",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "formation-intervenantes-sad-auxileo.jpg",
+      "nom": "formation-intervenantes-sad-auxileo",
+      "drapeau": "lieu",
+      "largeur": 1225,
+      "hauteur": 919,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 246044,
+      "transparence": false,
+      "sujet": {
+        "x": 0.1,
+        "y": 47.2,
+        "l": 39.1,
+        "h": 52.3,
+        "source": "corps"
+      },
+      "visages": 7,
+      "cadrage": [
+        43,
+        57
+      ],
+      "cadrage_css": "43% 57%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.44,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.34,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.39
+        },
+        {
+          "cote": "gauche",
+          "score": 0.06,
+          "ton": "moyen",
+          "recouvre_sujet": 0.51
+        }
+      ],
+      "qualite": {
+        "nettete": 37.5,
+        "bruit": 1.83,
+        "compression": 0.98,
+        "faible": true,
+        "raisons": [
+          "1225 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "marque",
+        "a_verifier": true,
+        "texte": "Resain · Besoin · Respect · Besoin · Confidentialité · Famille · Tie-lione · Fessionnalisme l- · Respect · Besoin · Ecoute · Echange · QUE · BORD",
+        "blocs": 14,
+        "surface": 7.6,
+        "details": [
+          {
+            "texte": "Resain",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Besoin",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Respect",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Besoin",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Confidentialité",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Famille",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Tie-lione",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Fessionnalisme l-",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Respect",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Besoin",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Ecoute",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Echange",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "8256cccde5756179",
+      "drapeaux": [
+        "lieu",
+        "7 visages",
+        "petite",
+        "filigrane ou marque"
+      ]
+    },
+    {
+      "fichier": "image-montre-seances-app.jpg",
+      "nom": "image-montre-seances-app",
+      "drapeau": "lieu",
+      "largeur": 800,
+      "hauteur": 600,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 109081,
+      "transparence": false,
+      "sujet": {
+        "x": 4.2,
+        "y": 37.9,
+        "l": 88.3,
+        "h": 60.3,
+        "source": "corps"
+      },
+      "visages": 4,
+      "cadrage": [
+        44,
+        55
+      ],
+      "cadrage_css": "44% 55%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.57,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.31,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        },
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.49
+        },
+        {
+          "cote": "bas",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 41.6,
+        "bruit": 0.89,
+        "compression": 1.14,
+        "faible": true,
+        "raisons": [
+          "800 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f1f57cc533ba986d",
+      "drapeaux": [
+        "lieu",
+        "4 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "image-montre-exterieur-cabinet.jpg",
+      "nom": "image-montre-exterieur-cabinet",
+      "drapeau": "lieu",
+      "largeur": 2000,
+      "hauteur": 962,
+      "ratio": "2.08",
+      "ratio_valeur": 2.079,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 400454,
+      "transparence": false,
+      "sujet": {
+        "x": 38.2,
+        "y": 36.8,
+        "l": 17.6,
+        "h": 23.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        48
+      ],
+      "cadrage_css": "47% 48%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.43,
+          "ton": "moyen",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.22,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.2,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        }
+      ],
+      "qualite": {
+        "nettete": 79,
+        "bruit": 1.09,
+        "compression": 1.26,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "gillil • · Cabinet de la Forêt · Nocdn MOX CHET · OSTEOPATHE DO. · Fla COCKIN · PSYCHOLOGLE · PSYCHOLOGUE · CLINICIENVE · - 06 7299 10 59 · n771 93.59.40",
+        "blocs": 10,
+        "surface": 0.8,
+        "details": [
+          {
+            "texte": "gillil •",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Cabinet de la Forêt",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Nocdn MOX CHET",
+            "niveau": "marque"
+          },
+          {
+            "texte": "OSTEOPATHE DO.",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Fla COCKIN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PSYCHOLOGLE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PSYCHOLOGUE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CLINICIENVE",
+            "niveau": "marque"
+          },
+          {
+            "texte": "- 06 7299 10 59",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "n771 93.59.40",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "cdcc0cb591b22638",
+      "drapeaux": [
+        "lieu",
+        "document lisible"
+      ]
+    },
+    {
+      "fichier": "image-montre-bureau-cabinet.jpg",
+      "nom": "image-montre-bureau-cabinet",
+      "drapeau": "lieu",
+      "largeur": 1125,
+      "hauteur": 2000,
+      "ratio": "9:16",
+      "ratio_valeur": 0.563,
+      "orientation": "portrait",
+      "format": "jpeg",
+      "poids": 192636,
+      "transparence": false,
+      "sujet": {
+        "x": 28.6,
+        "y": 41.2,
+        "l": 40.2,
+        "h": 35.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        50
+      ],
+      "cadrage_css": "49% 50%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.62,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.53,
+          "ton": "clair",
+          "recouvre_sujet": 0.1
+        },
+        {
+          "cote": "droite",
+          "score": 0.5,
+          "ton": "moyen",
+          "recouvre_sujet": 0.08
+        },
+        {
+          "cote": "bas",
+          "score": 0.45,
+          "ton": "moyen",
+          "recouvre_sujet": 0.14
+        }
+      ],
+      "qualite": {
+        "nettete": 32.3,
+        "bruit": 0.43,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1125 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "2f27474f8f001003",
+      "drapeaux": [
+        "lieu",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "cb-scout5-hdpi.png",
+      "nom": "cb-scout5-hdpi",
+      "drapeau": "lieu",
+      "largeur": 430,
+      "hauteur": 1670,
+      "ratio": "0.26",
+      "ratio_valeur": 0.257,
+      "orientation": "portrait",
+      "format": "png",
+      "poids": 104139,
+      "transparence": true,
+      "sujet": {
+        "x": 5.9,
+        "y": 4.4,
+        "l": 69.1,
+        "h": 63.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        37,
+        34
+      ],
+      "cadrage_css": "37% 34%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.77,
+          "ton": "clair",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "bas",
+          "score": 0.65,
+          "ton": "clair",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "haut",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "gauche",
+          "score": 0.14,
+          "ton": "clair",
+          "recouvre_sujet": 0.54
+        }
+      ],
+      "qualite": {
+        "nettete": 54.7,
+        "bruit": 0.17,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "430 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "d7555552d0d0d0d0",
+      "drapeaux": [
+        "lieu",
+        "petite",
+        "calme droite/bas"
+      ]
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac.webp",
+      "nom": "psychologue-clinicienne-merignac",
+      "drapeau": "lieu",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 49792,
+      "transparence": false,
+      "sujet": {
+        "x": 10.3,
+        "y": 16.2,
+        "l": 70.6,
+        "h": 54.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        51,
+        42
+      ],
+      "cadrage_css": "51% 42%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.43,
+          "ton": "clair",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "haut",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "droite",
+          "score": 0.41,
+          "ton": "clair",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "gauche",
+          "score": 0.35,
+          "ton": "clair",
+          "recouvre_sujet": 0.4
+        }
+      ],
+      "qualite": {
+        "nettete": 73.1,
+        "bruit": 1.02,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "INON · HUT · Av. des Frères Robinson · . de l'Yser · Av. du Bédat · Av. du Truc · Av. Leon Blum · Rue du Liveau · Rue du Jard · Mérignac",
+        "blocs": 10,
+        "surface": 28.4,
+        "details": [
+          {
+            "texte": "INON",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "HUT",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. des Frères Robinson",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": ". de l'Yser",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. du Bédat",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. du Truc",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. Leon Blum",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Rue du Liveau",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Rue du Jard",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Mérignac",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "62d162ebcad69c6f",
+      "drapeaux": [
+        "lieu",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac-2.webp",
+      "nom": "psychologue-clinicienne-merignac-2",
+      "drapeau": "lieu",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 54866,
+      "transparence": false,
+      "sujet": {
+        "x": 33.8,
+        "y": 4.4,
+        "l": 61.8,
+        "h": 58.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        60,
+        34
+      ],
+      "cadrage_css": "60% 34%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.72,
+          "ton": "clair",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "bas",
+          "score": 0.69,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.33,
+          "ton": "clair",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "haut",
+          "score": 0.28,
+          "ton": "clair",
+          "recouvre_sujet": 0.54
+        }
+      ],
+      "qualite": {
+        "nettete": 58.7,
+        "bruit": 0.85,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "MONSEJOUR · Interma · EXPRESS Borc · CAU · Rue de Capeyron · Rue Pasteur · Mac Carthy",
+        "blocs": 7,
+        "surface": 16.7,
+        "details": [
+          {
+            "texte": "MONSEJOUR",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Interma",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "EXPRESS Borc",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CAU",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Rue de Capeyron",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Rue Pasteur",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Mac Carthy",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "04728cc693d0d909",
+      "drapeaux": [
+        "lieu",
+        "petite",
+        "texte décoratif",
+        "calme gauche/bas"
+      ]
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac-3.webp",
+      "nom": "psychologue-clinicienne-merignac-3",
+      "drapeau": "lieu",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 52702,
+      "transparence": false,
+      "sujet": {
+        "x": 10.3,
+        "y": 17.6,
+        "l": 36.8,
+        "h": 54.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        30,
+        45
+      ],
+      "cadrage_css": "30% 45%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.66,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.53,
+          "ton": "clair",
+          "recouvre_sujet": 0.18
+        },
+        {
+          "cote": "bas",
+          "score": 0.51,
+          "ton": "clair",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "gauche",
+          "score": 0.22,
+          "ton": "clair",
+          "recouvre_sujet": 0.4
+        }
+      ],
+      "qualite": {
+        "nettete": 51.8,
+        "bruit": 1.12,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "D1215 · A630 · ard · Bistrot du Grand Louis · x Eysines · ermarché @ · Mérignac · Av. de l'Hion-",
+        "blocs": 8,
+        "surface": 12.3,
+        "details": [
+          {
+            "texte": "D1215",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "A630",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ard",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Bistrot du Grand Louis",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "x Eysines",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ermarché @",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Mérignac",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. de l'Hion-",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "7366ba34c3d34222",
+      "drapeaux": [
+        "lieu",
+        "petite",
+        "texte décoratif",
+        "calme droite"
+      ]
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac-4.webp",
+      "nom": "psychologue-clinicienne-merignac-4",
+      "drapeau": "lieu",
+      "largeur": 512,
+      "hauteur": 512,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 48814,
+      "transparence": false,
+      "sujet": {
+        "x": 35.3,
+        "y": 11.8,
+        "l": 39.7,
+        "h": 66.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        56,
+        35
+      ],
+      "cadrage_css": "56% 35%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.58,
+          "ton": "clair",
+          "recouvre_sujet": 0.08
+        },
+        {
+          "cote": "bas",
+          "score": 0.46,
+          "ton": "clair",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "droite",
+          "score": 0.44,
+          "ton": "clair",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0.42,
+          "ton": "clair",
+          "recouvre_sujet": 0.26
+        }
+      ],
+      "qualite": {
+        "nettete": 70.7,
+        "bruit": 1.05,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "512 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Rue Jude · Hôpital Suburbain · du Bouscat · Av. d'Eysines · Rue Ra · Av. du Maréchal de Lattre de Tassigny · LESTONAT -",
+        "blocs": 7,
+        "surface": 36.5,
+        "details": [
+          {
+            "texte": "Rue Jude",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Hôpital Suburbain",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "du Bouscat",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. d'Eysines",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Rue Ra",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Av. du Maréchal de Lattre de Tassigny",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LESTONAT -",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b9b5d5d2806a960b",
+      "drapeaux": [
+        "lieu",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "formation-intervenantes-sad-auxileo-2.jpg",
+      "nom": "formation-intervenantes-sad-auxileo-2",
+      "drapeau": "lieu",
+      "largeur": 1225,
+      "hauteur": 919,
+      "ratio": "4:3",
+      "ratio_valeur": 1.333,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 286318,
+      "transparence": false,
+      "sujet": {
+        "x": 8.5,
+        "y": 46.6,
+        "l": 91,
+        "h": 52.5,
+        "source": "corps"
+      },
+      "visages": 10,
+      "cadrage": [
+        51,
+        60
+      ],
+      "cadrage_css": "51% 60%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.5,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "gauche",
+          "score": 0.06,
+          "ton": "moyen",
+          "recouvre_sujet": 0.41
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.89
+        }
+      ],
+      "qualite": {
+        "nettete": 46.1,
+        "bruit": 1.86,
+        "compression": 0.99,
+        "faible": true,
+        "raisons": [
+          "1225 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "'artage Formation · Accompagnement Famille · Parta · Accompagnemen · Engageme · Qualité · Qualit · ¿Confia · Proximité · Bienve · Ecoule · Autonomie A · Qualité",
+        "blocs": 23,
+        "surface": 5.5,
+        "details": [
+          {
+            "texte": "'artage Formation",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Accompagnement Famille",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Parta",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Accompagnemen",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Engageme",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Qualité",
+            "niveau": "marque"
+          },
+          {
+            "texte": "Qualit",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "¿Confia",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Proximité",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Bienve",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Ecoule",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Autonomie A",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "40d01c57737a7979",
+      "drapeaux": [
+        "lieu",
+        "10 visages",
+        "petite",
+        "document lisible"
+      ]
+    },
+    {
+      "fichier": "sitographie-psy.jpg",
+      "nom": "sitographie-psy",
+      "drapeau": "lieu",
+      "largeur": 2000,
+      "hauteur": 1438,
+      "ratio": "1.39",
+      "ratio_valeur": 1.391,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 267021,
+      "transparence": false,
+      "sujet": {
+        "x": 8.8,
+        "y": 4.4,
+        "l": 69.1,
+        "h": 55.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        34
+      ],
+      "cadrage_css": "47% 34%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.38,
+          "ton": "clair",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "clair",
+          "recouvre_sujet": 0.44
+        },
+        {
+          "cote": "droite",
+          "score": 0.11,
+          "ton": "clair",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.6
+        }
+      ],
+      "qualite": {
+        "nettete": 154.8,
+        "bruit": 0.47,
+        "compression": 1.02,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "Pratiquer une psychologie clinique · d'orientation lacanienne · Comment l'approche théorique psychanalytique lacanienne oriente t'-elle la · pratique clinique d",
+        "blocs": 57,
+        "surface": 16.2,
+        "details": [
+          {
+            "texte": "Pratiquer une psychologie clinique",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "d'orientation lacanienne",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Comment l'approche théorique psychanalytique lacanienne oriente t'-elle la",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "pratique clinique du psychologue clinicien en institution hospitalière ? Cet",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ouvrage",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "presente",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "une",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "observation",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "une analyse fine de",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "différents",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "dispositifs de psychologie clinique adulte ou",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "enfant,",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "2d49254d4e4e4e4a",
+      "drapeaux": [
+        "lieu",
+        "document lisible"
+      ]
+    },
+    {
+      "fichier": "image-montre-salon-therapie.jpg",
+      "nom": "image-montre-salon-therapie",
+      "drapeau": "lieu",
+      "largeur": 1958,
+      "hauteur": 2000,
+      "ratio": "1:1",
+      "ratio_valeur": 0.979,
+      "orientation": "carre",
+      "format": "jpeg",
+      "poids": 680415,
+      "transparence": false,
+      "sujet": {
+        "x": 44.4,
+        "y": 41.7,
+        "l": 55.5,
+        "h": 53.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        65,
+        58
+      ],
+      "cadrage_css": "65% 58%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.47,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "haut",
+          "score": 0.32,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.32,
+          "ton": "sombre",
+          "recouvre_sujet": 0.48
+        },
+        {
+          "cote": "droite",
+          "score": 0.29,
+          "ton": "moyen",
+          "recouvre_sujet": 0.53
+        }
+      ],
+      "qualite": {
+        "nettete": 62.6,
+        "bruit": 1.05,
+        "compression": 0.96,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ARISE · Un Jour dans les Monts d'Arrée",
+        "blocs": 2,
+        "surface": 0.5,
+        "details": [
+          {
+            "texte": "ARISE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Un Jour dans les Monts d'Arrée",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "67673f3774ddfb1f",
+      "drapeaux": [
+        "lieu",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "handucaps-visibles-invisibles-cabinet.jpg",
+      "nom": "handucaps-visibles-invisibles-cabinet",
+      "drapeau": "lieu",
+      "largeur": 605,
+      "hauteur": 313,
+      "ratio": "1.93",
+      "ratio_valeur": 1.933,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 134417,
+      "transparence": false,
+      "sujet": {
+        "x": 4.2,
+        "y": 0.8,
+        "l": 90.8,
+        "h": 78.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        38
+      ],
+      "cadrage_css": "50% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.08,
+          "ton": "clair",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.7
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.69
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.89
+        }
+      ],
+      "qualite": {
+        "nettete": 69.1,
+        "bruit": 1.11,
+        "compression": 1.03,
+        "faible": true,
+        "raisons": [
+          "605 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "document",
+        "a_verifier": true,
+        "texte": "HANDICAP · AUDITIF · personnes · sourdes et malen- · tendantes · HANDICAP · PSYCHIQUE · troubles mentaux, · affectifs et · émotionnels · HANDICAP · VISUEL · per",
+        "blocs": 30,
+        "surface": 21.7,
+        "details": [
+          {
+            "texte": "HANDICAP",
+            "niveau": "marque"
+          },
+          {
+            "texte": "AUDITIF",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "personnes",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "sourdes et malen-",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "tendantes",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "HANDICAP",
+            "niveau": "marque"
+          },
+          {
+            "texte": "PSYCHIQUE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "troubles mentaux,",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "affectifs et",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "émotionnels",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "HANDICAP",
+            "niveau": "marque"
+          },
+          {
+            "texte": "VISUEL",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "8e07074529316969",
+      "drapeaux": [
+        "lieu",
+        "petite",
+        "document lisible"
+      ]
+    }
+  ]
+}

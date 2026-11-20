@@ -1,0 +1,1321 @@
+{
+  "logo-papillon": {
+    "nom": "logo-papillon",
+    "source": "recu/logo-papillon.svg",
+    "role": "logo",
+    "alt": "Cabinet de la Forêt, papillon tracé au pinceau orange",
+    "grok": false,
+    "mention": null,
+    "beaute": null,
+    "empreinte": "4c54d71a01dea1cd",
+    "largeurs": [],
+    "fichiers": [
+      "logo-papillon.svg"
+    ],
+    "ratio": null,
+    "cadrage": null,
+    "faible": false,
+    "media": "c.media({ nom: 'logo-papillon', alt: \"Cabinet de la Forêt, papillon tracé au pinceau orange\", sizes: '240px' })"
+  },
+  "qualiopi": {
+    "nom": "qualiopi",
+    "source": "recu/logo-2.jpg",
+    "role": "logo",
+    "alt": "Marque Qualiopi, processus certifié, République française",
+    "grok": false,
+    "mention": null,
+    "beaute": null,
+    "empreinte": "a352aa2c5798a457",
+    "ratio": null,
+    "largeurs": [
+      240,
+      480
+    ],
+    "mobile": null,
+    "cadrage": null,
+    "sujet": null,
+    "zones_calmes": null,
+    "zone_texte": null,
+    "recadrage": null,
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "qualiopi-240.webp",
+      "qualiopi-480.webp"
+    ],
+    "poids": {
+      "qualiopi-240.webp": 4726,
+      "qualiopi-480.webp": 9518
+    },
+    "media": "c.media({ nom: 'qualiopi', alt: \"Marque Qualiopi, processus certifié, République française\", sizes: '240px' })"
+  },
+  "salon": {
+    "nom": "salon",
+    "source": "recu/image-montre-salon-se.jpg",
+    "role": "ouverture",
+    "alt": "Le salon du cabinet : fauteuils moutarde autour d'une petite table menthe",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "88f88ab0e2d040c7",
+    "ratio": null,
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 52%"
+    },
+    "cadrage": "62% 52%",
+    "sujet": {
+      "x": 40.9,
+      "y": 10.1,
+      "l": 58.8,
+      "h": 79.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.5,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.43,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.34,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.28,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1192,
+      "source": [
+        2000,
+        1192
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "salon-640.webp",
+      "salon-1280.webp",
+      "salon-1920.webp",
+      "salon-mobile-640.webp",
+      "salon-mobile-1080.webp"
+    ],
+    "poids": {
+      "salon-640.webp": 22322,
+      "salon-1280.webp": 98110,
+      "salon-1920.webp": 212946,
+      "salon-mobile-640.webp": 44514,
+      "salon-mobile-1080.webp": 100072
+    },
+    "media": "c.media({ nom: 'salon', alt: \"Le salon du cabinet : fauteuils moutarde autour d'une petite table menthe\", cadrage: '62% 52%', cadrageMobile: '50% 52%', sizes: '100vw', priorite: true })"
+  },
+  "formation-groupe": {
+    "nom": "formation-groupe",
+    "source": "recu/formation-intervenantes-sad-auxileo-2.jpg",
+    "role": "carte-service",
+    "alt": "Françoise Gady avec les intervenantes d'un service d'aide à domicile, en formation au Bouscat en 2026",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "a39f44efe0d74948",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      960,
+      1225
+    ],
+    "mobile": null,
+    "cadrage": "55% 66%",
+    "sujet": {
+      "x": 8.5,
+      "y": 46.6,
+      "l": 91,
+      "h": 52.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.5,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.09,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.06,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1225,
+      "height": 919,
+      "source": [
+        1225,
+        919
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1225 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "formation-groupe-640.webp",
+      "formation-groupe-960.webp",
+      "formation-groupe-1225.webp"
+    ],
+    "poids": {
+      "formation-groupe-640.webp": 52460,
+      "formation-groupe-960.webp": 94862,
+      "formation-groupe-1225.webp": 148902
+    },
+    "media": "c.media({ nom: 'formation-groupe', alt: \"Françoise Gady avec les intervenantes d'un service d'aide à domicile, en formation au Bouscat en 2026\", cadrage: '55% 66%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "formation-groupe-2": {
+    "nom": "formation-groupe-2",
+    "source": "recu/formation-intervenantes-sad-auxileo.jpg",
+    "role": "carte-service",
+    "alt": "Françoise Gady et les intervenantes d'Auxiléo Services autour de la table de formation, au Bouscat en 2026",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "5acf24bcf7675df9",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      960,
+      1225
+    ],
+    "mobile": null,
+    "cadrage": "50% 62%",
+    "sujet": {
+      "x": 0.1,
+      "y": 47.2,
+      "l": 39.1,
+      "h": 52.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.44,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.34,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.07,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.06,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1225,
+      "height": 919,
+      "source": [
+        1225,
+        919
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1225 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "formation-groupe-2-640.webp",
+      "formation-groupe-2-960.webp",
+      "formation-groupe-2-1225.webp"
+    ],
+    "poids": {
+      "formation-groupe-2-640.webp": 44528,
+      "formation-groupe-2-960.webp": 78400,
+      "formation-groupe-2-1225.webp": 115766
+    },
+    "media": "c.media({ nom: 'formation-groupe-2', alt: \"Françoise Gady et les intervenantes d'Auxiléo Services autour de la table de formation, au Bouscat en 2026\", cadrage: '50% 62%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "salle-adulte": {
+    "nom": "salle-adulte",
+    "source": "recu/image-montre-interieur-lumineux.jpg",
+    "role": "carte-service",
+    "alt": "La salle de psychothérapie adulte : deux fauteuils en cuir, une lampe et une bibliothèque",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "a6cd3bed8fa21a86",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      960,
+      1280
+    ],
+    "mobile": null,
+    "cadrage": "52% 60%",
+    "sujet": {
+      "x": 60.2,
+      "y": 39.5,
+      "l": 39.2,
+      "h": 48.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.68,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.44,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.43,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.33,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 72,
+      "top": 0,
+      "width": 1208,
+      "height": 906,
+      "source": [
+        1280,
+        906
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,06 fois (source de 1208 px après recadrage)"
+    ],
+    "fichiers": [
+      "salle-adulte-640.webp",
+      "salle-adulte-960.webp",
+      "salle-adulte-1280.webp"
+    ],
+    "poids": {
+      "salle-adulte-640.webp": 21828,
+      "salle-adulte-960.webp": 38766,
+      "salle-adulte-1280.webp": 56406
+    },
+    "media": "c.media({ nom: 'salle-adulte', alt: \"La salle de psychothérapie adulte : deux fauteuils en cuir, une lampe et une bibliothèque\", cadrage: '52% 60%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "salle-couple": {
+    "nom": "salle-couple",
+    "source": "recu/image-montre-salon-therapie.jpg",
+    "role": "carte-service",
+    "alt": "Le salon de thérapie de couple : trois sièges en cercle autour d'une petite table",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "724c9c8fc82a99d0",
+    "ratio": "4:5",
+    "largeurs": [
+      640,
+      960,
+      1280
+    ],
+    "mobile": null,
+    "cadrage": "53% 62%",
+    "sujet": {
+      "x": 32,
+      "y": 41.7,
+      "l": 67.9,
+      "h": 53.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.47,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.32,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.32,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.29,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 358,
+      "top": 0,
+      "width": 1600,
+      "height": 2000,
+      "source": [
+        1958,
+        2000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "salle-couple-640.webp",
+      "salle-couple-960.webp",
+      "salle-couple-1280.webp"
+    ],
+    "poids": {
+      "salle-couple-640.webp": 44914,
+      "salle-couple-960.webp": 120424,
+      "salle-couple-1280.webp": 221260
+    },
+    "media": "c.media({ nom: 'salle-couple', alt: \"Le salon de thérapie de couple : trois sièges en cercle autour d'une petite table\", cadrage: '53% 62%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 5' })"
+  },
+  "salle-enfant": {
+    "nom": "salle-enfant",
+    "source": "recu/image-montre-cabinet-psychotherapie.jpg",
+    "role": "carte-service",
+    "alt": "Le coin des enfants : jouets, livres, crayons et petit tabouret",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "278d6a5b947c4964",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      960,
+      1280
+    ],
+    "mobile": null,
+    "cadrage": "47% 50%",
+    "sujet": {
+      "x": 7.3,
+      "y": 13.5,
+      "l": 77.7,
+      "h": 66.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.41,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.4,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.3,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.27,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1217,
+      "height": 913,
+      "source": [
+        1622,
+        913
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,05 fois (source de 1217 px après recadrage)"
+    ],
+    "fichiers": [
+      "salle-enfant-640.webp",
+      "salle-enfant-960.webp",
+      "salle-enfant-1280.webp"
+    ],
+    "poids": {
+      "salle-enfant-640.webp": 30770,
+      "salle-enfant-960.webp": 50660,
+      "salle-enfant-1280.webp": 69150
+    },
+    "media": "c.media({ nom: 'salle-enfant', alt: \"Le coin des enfants : jouets, livres, crayons et petit tabouret\", cadrage: '47% 50%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "bureau": {
+    "nom": "bureau",
+    "source": "recu/image-montre-bureau-cabinet.jpg",
+    "role": "portrait",
+    "alt": "Le bureau en bois du cabinet, sous des cadres noir et blanc",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "f6a288d1b9b0d10c",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      720,
+      1000
+    ],
+    "mobile": null,
+    "cadrage": "45% 44%",
+    "sujet": {
+      "x": 28.6,
+      "y": 21.6,
+      "l": 40.2,
+      "h": 47.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.62,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.53,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.5,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.45,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 500,
+      "width": 1125,
+      "height": 1500,
+      "source": [
+        1125,
+        2000
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1125 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "bureau-480.webp",
+      "bureau-720.webp",
+      "bureau-1000.webp"
+    ],
+    "poids": {
+      "bureau-480.webp": 17828,
+      "bureau-720.webp": 31194,
+      "bureau-1000.webp": 49206
+    },
+    "media": "c.media({ nom: 'bureau', alt: \"Le bureau en bois du cabinet, sous des cadres noir et blanc\", cadrage: '45% 44%', sizes: '(max-width: 760px) 100vw, 40vw', ratio: '3 / 4' })"
+  },
+  "facade": {
+    "nom": "facade",
+    "source": "recu/image-montre-exterieur-cabinet.jpg",
+    "role": "vignette",
+    "alt": "L'entrée du Cabinet de la Forêt, avenue de la Forêt à Mérignac, dans la verdure",
+    "grok": false,
+    "mention": null,
+    "beaute": 2,
+    "empreinte": "c6df77d6f76cb088",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 12.9,
+      "y": 36.8,
+      "l": 27.4,
+      "h": 23.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.43,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.24,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.22,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.2,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 599,
+      "top": 0,
+      "width": 1283,
+      "height": 962,
+      "source": [
+        2000,
+        962
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "facade-480.webp",
+      "facade-800.webp"
+    ],
+    "poids": {
+      "facade-480.webp": 37962,
+      "facade-800.webp": 91304
+    },
+    "media": "c.media({ nom: 'facade', alt: \"L'entrée du Cabinet de la Forêt, avenue de la Forêt à Mérignac, dans la verdure\", cadrage: '50% 45%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "app-canopee": {
+    "nom": "app-canopee",
+    "source": "recu/image-montre-seances-app.jpg",
+    "role": "vignette",
+    "alt": "Séance d'analyse des pratiques avec l'équipe soignante de l'EHPAD La Canopée, à Bordeaux, en 2025",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "727c1beed6d10e1b",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "44% 55%",
+    "sujet": {
+      "x": 4.2,
+      "y": 37.9,
+      "l": 88.3,
+      "h": 60.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.57,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.31,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.09,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.03,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 800,
+      "height": 600,
+      "source": [
+        800,
+        600
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "800 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "app-canopee-480.webp",
+      "app-canopee-800.webp"
+    ],
+    "poids": {
+      "app-canopee-480.webp": 17872,
+      "app-canopee-800.webp": 39208
+    },
+    "media": "c.media({ nom: 'app-canopee', alt: \"Séance d'analyse des pratiques avec l'équipe soignante de l'EHPAD La Canopée, à Bordeaux, en 2025\", cadrage: '44% 55%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "livre": {
+    "nom": "livre",
+    "source": "recu/sitographie-psy.jpg",
+    "role": "vignette",
+    "alt": "Couverture du livre de Françoise Gady, Pratiquer une psychologie clinique d'orientation lacanienne",
+    "grok": false,
+    "mention": null,
+    "beaute": 2,
+    "empreinte": "ebc891b1c5130422",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "73% 50%",
+    "sujet": {
+      "x": 4.9,
+      "y": 4.4,
+      "l": 72.1,
+      "h": 55.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.38,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.13,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.11,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 83,
+      "top": 0,
+      "width": 1917,
+      "height": 1438,
+      "source": [
+        2000,
+        1438
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "livre-480.webp",
+      "livre-800.webp"
+    ],
+    "poids": {
+      "livre-480.webp": 24482,
+      "livre-800.webp": 54844
+    },
+    "media": "c.media({ nom: 'livre', alt: \"Couverture du livre de Françoise Gady, Pratiquer une psychologie clinique d'orientation lacanienne\", cadrage: '73% 50%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "grok/feuillage": {
+    "nom": "grok/feuillage",
+    "source": "recu/grok/feuillage.jpg",
+    "role": "section-fond",
+    "alt": "Ombres de feuillage sur un mur clair",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "e79c75596ded801a",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "41% 65%"
+    },
+    "cadrage": "42% 66%",
+    "sujet": {
+      "x": 0,
+      "y": 5.4,
+      "l": 90.6,
+      "h": 94.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.59,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.56,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.39,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.34,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": "haut",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/feuillage-640.webp",
+      "grok/feuillage-1280.webp",
+      "grok/feuillage-1920.webp",
+      "grok/feuillage-mobile-640.webp",
+      "grok/feuillage-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/feuillage-640.webp": 9630,
+      "grok/feuillage-1280.webp": 39716,
+      "grok/feuillage-1920.webp": 76650,
+      "grok/feuillage-mobile-640.webp": 51970,
+      "grok/feuillage-mobile-1080.webp": 119650
+    },
+    "media": "c.media({ nom: 'grok/feuillage', alt: \"Ombres de feuillage sur un mur clair\", cadrage: '42% 66%', cadrageMobile: '41% 65%', sizes: '100vw' })"
+  },
+  "grok/rideau-lumiere": {
+    "nom": "grok/rideau-lumiere",
+    "source": "recu/grok/rideau-lumiere.jpg",
+    "role": "ouverture",
+    "alt": "Rideau de lin dans la lumière du matin",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "f23cbdc43e26e44c",
+    "ratio": "4:5",
+    "largeurs": [
+      640,
+      1080,
+      1280
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "64% 52%"
+    },
+    "cadrage": "64% 52%",
+    "sujet": {
+      "x": 18.2,
+      "y": 0,
+      "l": 77.3,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.5,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.3,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 321,
+      "width": 1340,
+      "height": 1675,
+      "source": [
+        1340,
+        1996
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/rideau-lumiere-640.webp",
+      "grok/rideau-lumiere-1080.webp",
+      "grok/rideau-lumiere-1280.webp",
+      "grok/rideau-lumiere-mobile-640.webp",
+      "grok/rideau-lumiere-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/rideau-lumiere-640.webp": 40752,
+      "grok/rideau-lumiere-1080.webp": 97620,
+      "grok/rideau-lumiere-1280.webp": 124126,
+      "grok/rideau-lumiere-mobile-640.webp": 40752,
+      "grok/rideau-lumiere-mobile-1080.webp": 97620
+    },
+    "media": "c.media({ nom: 'grok/rideau-lumiere', alt: \"Rideau de lin dans la lumière du matin\", cadrage: '64% 52%', cadrageMobile: '64% 52%', sizes: '100vw', priorite: true })"
+  },
+  "grok/foret": {
+    "nom": "grok/foret",
+    "source": "recu/grok/foret-chemin.jpg",
+    "role": "section-fond",
+    "alt": "Chemin de sable entre les pins, dans la lumière du matin",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "2cdd151c33d885df",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 40%"
+    },
+    "cadrage": "53% 50%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 33,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/foret-640.webp",
+      "grok/foret-1280.webp",
+      "grok/foret-1920.webp",
+      "grok/foret-mobile-640.webp",
+      "grok/foret-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/foret-640.webp": 68166,
+      "grok/foret-1280.webp": 193502,
+      "grok/foret-1920.webp": 292264,
+      "grok/foret-mobile-640.webp": 187064,
+      "grok/foret-mobile-1080.webp": 275604
+    },
+    "media": "c.media({ nom: 'grok/foret', alt: \"Chemin de sable entre les pins, dans la lumière du matin\", cadrage: '53% 50%', cadrageMobile: '50% 40%', sizes: '100vw' })"
+  },
+  "grok/feuille": {
+    "nom": "grok/feuille",
+    "source": "recu/grok/feuille.jpg",
+    "role": "vignette",
+    "alt": "Feuille de chêne en contre-jour, nervures visibles",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "0e4861ba250690bc",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "68% 56%",
+    "sujet": {
+      "x": 37.2,
+      "y": 13.6,
+      "l": 62.8,
+      "h": 81.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.93,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.74,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.61,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.43,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 168,
+      "top": 0,
+      "width": 1432,
+      "height": 1074,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/feuille-640.webp",
+      "grok/feuille-960.webp"
+    ],
+    "poids": {
+      "grok/feuille-640.webp": 14994,
+      "grok/feuille-960.webp": 33494
+    },
+    "media": "c.media({ nom: 'grok/feuille', alt: \"Feuille de chêne en contre-jour, nervures visibles\", cadrage: '68% 56%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '4 / 3' })"
+  },
+  "grok/crayons": {
+    "nom": "grok/crayons",
+    "source": "recu/grok/crayons.jpg",
+    "role": "carte-service",
+    "alt": "Feuille blanche, crayons de couleur et pâte à modeler sur une table",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "5bdf697ab26dd4b3",
+    "ratio": "16:10",
+    "largeurs": [
+      640,
+      960,
+      1280
+    ],
+    "mobile": null,
+    "cadrage": "46% 50%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 95.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.07,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 69,
+      "width": 1600,
+      "height": 1000,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/crayons-640.webp",
+      "grok/crayons-960.webp",
+      "grok/crayons-1280.webp"
+    ],
+    "poids": {
+      "grok/crayons-640.webp": 31118,
+      "grok/crayons-960.webp": 68274,
+      "grok/crayons-1280.webp": 105960
+    },
+    "media": "c.media({ nom: 'grok/crayons', alt: \"Feuille blanche, crayons de couleur et pâte à modeler sur une table\", cadrage: '46% 50%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "grok/table-formation": {
+    "nom": "grok/table-formation",
+    "source": "recu/grok/table-formation.jpg",
+    "role": "carte-service",
+    "alt": "Salle préparée pour une formation : carnets, tasses et pense-bêtes sur une table",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 4,
+    "empreinte": "bd4167a677e43349",
+    "ratio": "16:10",
+    "largeurs": [
+      640,
+      960,
+      1280
+    ],
+    "mobile": null,
+    "cadrage": "45% 57%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 96.9,
+      "h": 97.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.11,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 48,
+      "width": 1600,
+      "height": 1000,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "grok/table-formation-640.webp",
+      "grok/table-formation-960.webp",
+      "grok/table-formation-1280.webp"
+    ],
+    "poids": {
+      "grok/table-formation-640.webp": 37600,
+      "grok/table-formation-960.webp": 67918,
+      "grok/table-formation-1280.webp": 97286
+    },
+    "media": "c.media({ nom: 'grok/table-formation', alt: \"Salle préparée pour une formation : carnets, tasses et pense-bêtes sur une table\", cadrage: '45% 57%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '16 / 10' })"
+  },
+  "grok/fenetre": {
+    "nom": "grok/fenetre",
+    "source": "recu/grok/fenetre.jpg",
+    "role": "404",
+    "alt": "Fenêtre ouverte sur les pins, rideau soulevé par le vent",
+    "grok": true,
+    "mention": "Illustration générée",
+    "beaute": 5,
+    "empreinte": "c826a10b60eabc16",
+    "ratio": null,
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 52%"
+    },
+    "cadrage": "64% 54%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 95.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.43,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.23,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.21,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "clair"
+      }
+    ],
+    "zone_texte": "gauche",
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 1074,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "grok/fenetre-640.webp",
+      "grok/fenetre-1280.webp",
+      "grok/fenetre-1920.webp",
+      "grok/fenetre-mobile-640.webp",
+      "grok/fenetre-mobile-1080.webp"
+    ],
+    "poids": {
+      "grok/fenetre-640.webp": 27980,
+      "grok/fenetre-1280.webp": 84072,
+      "grok/fenetre-1920.webp": 140564,
+      "grok/fenetre-mobile-640.webp": 58444,
+      "grok/fenetre-mobile-1080.webp": 112290
+    },
+    "media": "c.media({ nom: 'grok/fenetre', alt: \"Fenêtre ouverte sur les pins, rideau soulevé par le vent\", cadrage: '64% 54%', cadrageMobile: '50% 52%', sizes: '100vw' })"
+  }
+}

@@ -1,0 +1,7 @@
+[
+  { "nom": "Prévention du suicide", "tel": "3114", "lien": "3114", "detail": "Numéro national de prévention du suicide, 24 h/24" },
+  { "nom": "SECOP, CH Charles Perrens", "tel": "05 56 56 34 34", "lien": "+33556563434", "detail": "Centre d'accueil de crise, 24 h/24 ; orientation de 8 h à 20 h" },
+  { "nom": "Questions Psy", "tel": "0 800 710 890", "lien": "+33800710890", "detail": "En semaine, de 10 h à 17 h 30" },
+  { "nom": "CAUVA, CHU Pellegrin", "tel": "05 56 79 87 77", "lien": "+33556798777", "detail": "Accueil des victimes de violences" },
+  { "nom": "Suicide Écoute", "tel": "01 45 39 40 00", "lien": "+33145394000", "detail": "Écoute 24 h/24" }
+]

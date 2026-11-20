@@ -1,0 +1,16 @@
+{
+ "id": "20261120-222954-complet-cible-partiel",
+ "date": "2026-11-20T22:34:38.936Z",
+ "niveau": "complet",
+ "pages": "/,/404,/cabinet,/therapies,/contact",
+ "etapes": [
+  "fichiers",
+  "mesures"
+ ],
+ "version": "1",
+ "echecs": 0,
+ "aRegarder": 9,
+ "nonLances": 0,
+ "manquants": 0,
+ "statut": "complet"
+}

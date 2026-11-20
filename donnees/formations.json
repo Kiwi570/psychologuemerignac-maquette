@@ -1,0 +1,42 @@
+[
+  {
+    "cle": "avs", "numero": "01", "court": "Assistant(e)s de vie à domicile",
+    "titre": "Professionnaliser l'intervention des assistant(e)s de vie à domicile",
+    "sous": "Mieux accompagner, chez elles, les personnes âgées ou en situation de handicap.",
+    "duree": "2,5 jours · 17,5 h", "dureeNote": "Adaptable à 2 ou 3 jours ; la dernière demi-journée a lieu à distance des deux premières.",
+    "public": "Auxiliaires de vie, ADVF, aides-soignantes, AES, AMP, ASG et aides à domicile des services d'aide à domicile.",
+    "objectifs": ["Prendre du recul sur ses pratiques et mesurer les limites de son implication", "Connaître les signes des pathologies fréquentes à domicile (Parkinson, démences, troubles de l'humeur…)", "Repérer et transmettre la fragilité des bénéficiaires et de leurs aidants", "Trouver la juste proximité avec les aidants et les familles", "Prendre soin de soi, repérer et apaiser un conflit"],
+    "resultat": "En 2024 : 12 stagiaires, 100 % de complétion, 94,5 % de satisfaction globale.",
+    "tarif": "jour"
+  },
+  {
+    "cle": "sante-mentale", "numero": "02", "court": "Santé mentale à domicile",
+    "titre": "Accompagner les personnes vivant avec des troubles psychiques",
+    "sous": "Postures et pratiques à domicile.",
+    "duree": "2 jours · 14 h", "dureeNote": "Adaptable à 1 ou 3 jours selon les besoins.",
+    "public": "AVS, AES, ADVF, auxiliaires de vie et aides à domicile en poste en service d'aide à domicile.",
+    "objectifs": ["Questionner les idées reçues sur la normalité et la santé mentale", "Comprendre l'évolution des diagnostics, de la distinction névrose-psychose au DSM-5", "Identifier les spécificités du handicap psychique pour adapter l'aide au quotidien", "Ajuster sa communication et sa distance professionnelle", "Connaître les limites de son rôle et les relais à contacter"],
+    "resultat": "Atelier philosophie sur la normalité, jeux de rôle sur le refus de soin, quiz et mise en situation finale.",
+    "tarif": "jour"
+  },
+  {
+    "cle": "cnv", "numero": "03", "court": "Communication non violente",
+    "titre": "Compétences relationnelles et communication non violente",
+    "sous": "Qualité des soins relationnels, prévention des conflits, coopération d'équipe et qualité de vie au travail.",
+    "duree": "2,5 jours · 17,5 h", "dureeNote": "Adaptable de 1 à 3 jours ; la demi-journée a lieu un ou deux mois après les deux premiers jours.",
+    "public": "Infirmiers, aides-soignants, AVS, AES et auxiliaires de vie en EHPAD, SSIAD, FAM, SAAD ou MCO.",
+    "objectifs": ["Apaiser la communication avec les résidents, les familles et les collègues", "Appliquer la méthode OSBD : observation, sentiments, besoins, demandes", "Pratiquer l'écoute active et adapter sa communication aux personnalités", "Accueillir les refus de soin, la colère et l'agitation", "Construire un climat d'équipe qui prévient l'épuisement"],
+    "resultat": "Évaluation à chaud (quiz avant-après, mise en situation) et à froid, plusieurs semaines après.",
+    "tarif": "jour"
+  },
+  {
+    "cle": "app", "numero": "04", "court": "Analyse des pratiques",
+    "titre": "Analyse des pratiques professionnelles (APP)",
+    "sous": "Un temps de recul en groupe de pairs, pour les équipes du sanitaire, du social et du médico-social.",
+    "duree": "1 h 30 à 3 h 30 par séance", "dureeNote": "Séances mensuelles ou bimensuelles, en groupe de pairs, sans lien hiérarchique.",
+    "public": "Auxiliaires de vie, aides-soignants, éducateurs spécialisés, infirmiers, cadres de santé, IPA, assistants sociaux…",
+    "objectifs": ["Décrire une situation professionnelle et l'analyser à plusieurs", "Repérer ses composantes émotionnelles, relationnelles et institutionnelles", "Formuler des hypothèses et construire des pistes d'amélioration", "Développer une posture réflexive et la cohésion d'équipe"],
+    "resultat": "En 2024 : 96 % de satisfaction globale.",
+    "tarif": "heure"
+  }
+]

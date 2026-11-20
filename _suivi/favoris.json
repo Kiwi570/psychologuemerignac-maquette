@@ -1,0 +1,379 @@
+{
+ "explication": "Maquettes favorites de l'utilisateur : le niveau et le style visés, sur l'accueil ET les pages intérieures. Jamais à copier (ni leur idée, ni leur mise en page) : même harmonie, même fluidité, même soin.",
+ "activite": [
+  "santé",
+  "bien-être",
+  "formation"
+ ],
+ "metier": "psychologue thérapie formation",
+ "besoin": [
+  "rendez-vous"
+ ],
+ "ton": [
+  "doux",
+  "chaleureux"
+ ],
+ "univers": [],
+ "ambiance": [],
+ "concept": [],
+ "depot": "psychologuemerignac-maquette",
+ "favorites_dans_la_bibliotheque": 22,
+ "favorites": [
+  {
+   "rang": 1,
+   "maquette": "nolanis-maquette",
+   "client": "Agence de communication visuelle à Strasbourg : print et web, espaces publicitaires, publipostage, photo et vidéo, objets publicitaires, sauvegarde en ligne, formation photo",
+   "metier": "agence de communication visuelle",
+   "pourquoi": "Agence de communication : beige, éventail de couleurs, cartes nettes, sommaire des métiers.",
+   "proche": [
+    "même métier"
+   ],
+   "lumiere": "clair",
+   "note_maquette": 86,
+   "en_ligne": "https://nolanis-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "nolanis-maquette/debut",
+     "note_section": 5,
+     "titre": "Votre agence de communication visuelle à Strasbourg",
+     "capture": "medias/nolanis-maquette/debut-p1440.jpg",
+     "video": "medias/nolanis-maquette/debut-p720.mp4",
+     "fiche": "sections/nolanis-maquette/debut.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "services",
+     "id": "nolanis-maquette/services",
+     "note_section": 4,
+     "titre": "La liasse des épreuves",
+     "capture": "medias/nolanis-maquette/services-p1440.jpg",
+     "video": "medias/nolanis-maquette/services-p720.mp4",
+     "fiche": "sections/nolanis-maquette/services.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app"
+    },
+    {
+     "page": "formations",
+     "role": "ouverture",
+     "id": "nolanis-maquette/formations-debut",
+     "note_section": 4,
+     "titre": "Choisir l’image juste",
+     "capture": "medias/nolanis-maquette/formations-debut-p1440.jpg",
+     "video": "medias/nolanis-maquette/formations-debut-p720.mp4",
+     "fiche": "sections/nolanis-maquette/formations-debut.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app/formations"
+    },
+    {
+     "page": "contact",
+     "role": "outil-interactif",
+     "id": "nolanis-maquette/contact-devis",
+     "note_section": 4,
+     "titre": "Votre demande, en trois étapes",
+     "capture": "medias/nolanis-maquette/contact-devis-p1440.jpg",
+     "video": "medias/nolanis-maquette/contact-devis-p720.mp4",
+     "fiche": "sections/nolanis-maquette/contact-devis.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app/contact"
+    }
+   ]
+  },
+  {
+   "rang": 2,
+   "maquette": "ice-attitude-maquette",
+   "client": "association de team building survie douce, stages de survie, anniversaires et EVG en forêt, à Marly-le-Roi et partout en France",
+   "metier": "stages de survie en forêt",
+   "pourquoi": "Survie en forêt : nuit de forêt et braise orange, feu WebGL qu'on attise, journée où le soleil tourne, équipe autour du feu.",
+   "proche": [
+    "même activité",
+    "ambiance chaleureux"
+   ],
+   "lumiere": "sombre",
+   "note_maquette": 87,
+   "en_ligne": "https://ice-attitude-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "ice-attitude-maquette/ouverture",
+     "note_section": 5,
+     "titre": "ICE Attitude, ICE Attitude",
+     "capture": "medias/ice-attitude-maquette/ouverture-p1440.jpg",
+     "video": "medias/ice-attitude-maquette/ouverture-p720.mp4",
+     "fiche": "sections/ice-attitude-maquette/ouverture.json",
+     "en_ligne": "https://ice-attitude-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "étapes",
+     "id": "ice-attitude-maquette/journee",
+     "note_section": 5,
+     "titre": "Une journée en forêt",
+     "capture": "medias/ice-attitude-maquette/journee-p1440.jpg",
+     "video": "medias/ice-attitude-maquette/journee-p720.mp4",
+     "fiche": "sections/ice-attitude-maquette/journee.json",
+     "en_ligne": "https://ice-attitude-maquette.vercel.app"
+    },
+    {
+     "page": "stage-survie",
+     "role": "ouverture",
+     "id": "ice-attitude-maquette/stage-survie-ouverture",
+     "note_section": 4,
+     "titre": "Les bases de la survie",
+     "capture": "medias/ice-attitude-maquette/stage-survie-ouverture-p1440.jpg",
+     "video": "medias/ice-attitude-maquette/stage-survie-ouverture-p720.mp4",
+     "fiche": "sections/ice-attitude-maquette/stage-survie-ouverture.json",
+     "en_ligne": "https://ice-attitude-maquette.vercel.app/stage-survie"
+    },
+    {
+     "page": "team-building",
+     "role": "manifeste",
+     "id": "ice-attitude-maquette/team-building-objectifs",
+     "note_section": 4,
+     "titre": "Ce que vos équipes y gagnent",
+     "capture": "medias/ice-attitude-maquette/team-building-objectifs-p1440.jpg",
+     "video": "medias/ice-attitude-maquette/team-building-objectifs-p720.mp4",
+     "fiche": "sections/ice-attitude-maquette/team-building-objectifs.json",
+     "en_ligne": "https://ice-attitude-maquette.vercel.app/team-building"
+    }
+   ]
+  },
+  {
+   "rang": 3,
+   "maquette": "fit-tri-maquette",
+   "client": "coach de triathlon diplômé (Michael Lecuivre, « Coach Mika ») : plans d'entraînement à distance, coaching 1-to-1, stages dans les Pyrénées, club FIT-TRI-TEAM, outils gratuits et blog",
+   "metier": "coach de triathlon",
+   "pourquoi": "Coach de triathlon : gris clair, bleu nuit et vert citron, capitales condensées, un seul système sur les douze pages, outils utiles.",
+   "proche": [
+    "même activité"
+   ],
+   "lumiere": "mixte",
+   "note_maquette": 82,
+   "en_ligne": "https://fit-tri-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "fit-tri-maquette/hero",
+     "note_section": 4,
+     "titre": "Des plans fondés sur la science, un coach qui vous connaît",
+     "capture": "medias/fit-tri-maquette/hero-p1440.jpg",
+     "video": "medias/fit-tri-maquette/hero-p720.mp4",
+     "fiche": "sections/fit-tri-maquette/hero.json",
+     "en_ligne": "https://fit-tri-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "tarifs",
+     "id": "fit-tri-maquette/band-nuit",
+     "note_section": 4,
+     "titre": "Les formulesTrois niveaux d’accompagnement, un même sérieux",
+     "capture": "medias/fit-tri-maquette/band-nuit-p1440.jpg",
+     "video": null,
+     "fiche": "sections/fit-tri-maquette/band-nuit.json",
+     "en_ligne": "https://fit-tri-maquette.vercel.app"
+    },
+    {
+     "page": "club",
+     "role": "ouverture",
+     "id": "fit-tri-maquette/club-page-intro",
+     "note_section": 4,
+     "titre": "Faites partie d’une équipe",
+     "capture": "medias/fit-tri-maquette/club-page-intro-p1440.jpg",
+     "video": "medias/fit-tri-maquette/club-page-intro-p720.mp4",
+     "fiche": "sections/fit-tri-maquette/club-page-intro.json",
+     "en_ligne": "https://fit-tri-maquette.vercel.app/club"
+    },
+    {
+     "page": "coaching",
+     "role": "tarifs",
+     "id": "fit-tri-maquette/coaching-section-2",
+     "note_section": 4,
+     "titre": "Les trois formulesChoisissez votre rythme",
+     "capture": "medias/fit-tri-maquette/coaching-section-2-p1440.jpg",
+     "video": null,
+     "fiche": "sections/fit-tri-maquette/coaching-section-2.json",
+     "en_ligne": "https://fit-tri-maquette.vercel.app/coaching"
+    }
+   ]
+  },
+  {
+   "rang": 4,
+   "maquette": "cirenza-maquette",
+   "client": "artiste peintre à La Clusaz (encaustique, huile, aquarelle), ancienne chercheuse sur les glaciers, et son lieu l'Espace Créa-Tea-Vité : galerie, salon de thé, cours, retraites et boutique",
+   "metier": "artiste peintre",
+   "pourquoi": "Peintre : éditorial clair, ambre de cire, une maison à deux côtés, salles d'œuvres.",
+   "proche": [
+    "même activité"
+   ],
+   "lumiere": "mixte",
+   "note_maquette": 79,
+   "en_ligne": "https://cirenza-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "cirenza-maquette/ouverture",
+     "note_section": 3,
+     "titre": "LisaLisa CirenzaCirenza",
+     "capture": "medias/cirenza-maquette/ouverture-p1440.jpg",
+     "video": null,
+     "fiche": "sections/cirenza-maquette/ouverture.json",
+     "en_ligne": "https://cirenza-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "outil-interactif",
+     "id": "cirenza-maquette/geologie",
+     "note_section": 4,
+     "titre": "The Geology of the InvisibleThe Geology of the Invisible",
+     "capture": "medias/cirenza-maquette/geologie-p1440.jpg",
+     "video": "medias/cirenza-maquette/geologie-p720.mp4",
+     "fiche": "sections/cirenza-maquette/geologie.json",
+     "en_ligne": "https://cirenza-maquette.vercel.app"
+    },
+    {
+     "page": "artist",
+     "role": "ouverture",
+     "id": "cirenza-maquette/artist-bandeau",
+     "note_section": 3,
+     "titre": "Lisa CirenzaLisa Cirenza",
+     "capture": "medias/cirenza-maquette/artist-bandeau-p1440.jpg",
+     "video": null,
+     "fiche": "sections/cirenza-maquette/artist-bandeau.json",
+     "en_ligne": "https://cirenza-maquette.vercel.app/artist"
+    },
+    {
+     "page": "fr/boutique",
+     "role": "produits",
+     "id": "cirenza-maquette/fr-boutique-atelier",
+     "note_section": 4,
+     "titre": "Le comptoir de l'atelierLe comptoir de l'atelier",
+     "capture": "medias/cirenza-maquette/fr-boutique-atelier-p1440.jpg",
+     "video": null,
+     "fiche": "sections/cirenza-maquette/fr-boutique-atelier.json",
+     "en_ligne": "https://cirenza-maquette.vercel.app/fr/boutique"
+    }
+   ]
+  },
+  {
+   "rang": 5,
+   "maquette": "efficience-triathlon-maquette",
+   "client": "coach de triathlon, tests d'effort lactate et stages",
+   "metier": "coach de triathlon",
+   "pourquoi": "Coach de triathlon : bleu nuit et orange, capitales, chiffres de course.",
+   "proche": [
+    "activité proche",
+    "besoin rendez-vous"
+   ],
+   "lumiere": "sombre",
+   "note_maquette": 88,
+   "en_ligne": "https://efficience-triathlon-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "efficience-triathlon-maquette/top",
+     "note_section": 4,
+     "titre": "Héros vidéo sous ondes",
+     "capture": "medias/efficience-triathlon-maquette/top-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/top-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/top.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "outil-interactif",
+     "id": "efficience-triathlon-maquette/science",
+     "note_section": 5,
+     "titre": "Courbe interactive à curseur",
+     "capture": "medias/efficience-triathlon-maquette/science-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/science-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/science.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app"
+    },
+    {
+     "page": "stage-triathlon-montagne",
+     "role": "ouverture",
+     "id": "efficience-triathlon-maquette/stage-triathlon-montagne-top",
+     "note_section": 4,
+     "titre": "Héros à profil d'altitude",
+     "capture": "medias/efficience-triathlon-maquette/stage-triathlon-montagne-top-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/stage-triathlon-montagne-top-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/stage-triathlon-montagne-top.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app/stage-triathlon-montagne"
+    },
+    {
+     "page": "test-effort",
+     "role": "étapes",
+     "id": "efficience-triathlon-maquette/test-effort-protocole",
+     "note_section": 4,
+     "titre": "Protocole épinglé palier par palier",
+     "capture": "medias/efficience-triathlon-maquette/test-effort-protocole-p1440.jpg",
+     "video": "medias/efficience-triathlon-maquette/test-effort-protocole-p720.mp4",
+     "fiche": "sections/efficience-triathlon-maquette/test-effort-protocole.json",
+     "en_ligne": "https://efficience-triathlon-maquette.vercel.app/test-effort"
+    }
+   ]
+  },
+  {
+   "rang": 6,
+   "maquette": "lemoy-premium-maquette",
+   "client": "pâtisserie, chocolaterie, boulangerie et traiteur rue François de Curel à Metz, commande en ligne et retrait en boutique",
+   "metier": "pâtissier chocolatier",
+   "pourquoi": "Pâtisserie à Metz : cacao, crème et or, superbes photos de produits, vitrine claire et utile, commande en ligne.",
+   "proche": [
+    "ambiance chaleureux"
+   ],
+   "lumiere": "mixte",
+   "note_maquette": 84,
+   "en_ligne": "https://lemoy-premium-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "lemoy-premium-maquette/heros",
+     "note_section": 3,
+     "titre": "Les grands classiques, revisités.",
+     "capture": "medias/lemoy-premium-maquette/heros-p1440.jpg",
+     "video": null,
+     "fiche": "sections/lemoy-premium-maquette/heros.json",
+     "en_ligne": "https://lemoy-premium-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "produits",
+     "id": "lemoy-premium-maquette/vitrine",
+     "note_section": 4,
+     "titre": "Sous les cloches, ce matin",
+     "capture": "medias/lemoy-premium-maquette/vitrine-p1440.jpg",
+     "video": null,
+     "fiche": "sections/lemoy-premium-maquette/vitrine.json",
+     "en_ligne": "https://lemoy-premium-maquette.vercel.app"
+    },
+    {
+     "page": "boulangerie",
+     "role": "ouverture",
+     "id": "lemoy-premium-maquette/boulangerie-tete",
+     "note_section": 3,
+     "titre": "Pains au levain, viennoiseries pur beurre",
+     "capture": "medias/lemoy-premium-maquette/boulangerie-tete-p1440.jpg",
+     "video": null,
+     "fiche": "sections/lemoy-premium-maquette/boulangerie-tete.json",
+     "en_ligne": "https://lemoy-premium-maquette.vercel.app/boulangerie"
+    },
+    {
+     "page": "carte-cadeau",
+     "role": "outil-interactif",
+     "id": "lemoy-premium-maquette/carte-cadeau-cc-titre",
+     "note_section": 4,
+     "titre": "Votre carte",
+     "capture": "medias/lemoy-premium-maquette/carte-cadeau-cc-titre-p1440.jpg",
+     "video": null,
+     "fiche": "sections/lemoy-premium-maquette/carte-cadeau-cc-titre.json",
+     "en_ligne": "https://lemoy-premium-maquette.vercel.app/carte-cadeau"
+    }
+   ]
+  }
+ ]
+}

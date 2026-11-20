@@ -1,0 +1,302 @@
+[
+ {
+  "source": "recu/logo-papillon.svg",
+  "nom": "logo-papillon",
+  "role": "logo",
+  "alt": "Cabinet de la Forêt, papillon tracé au pinceau orange"
+ },
+ {
+  "source": "recu/logo-2.jpg",
+  "nom": "qualiopi",
+  "role": "logo",
+  "alt": "Marque Qualiopi, processus certifié, République française"
+ },
+ {
+  "source": "recu/image-montre-salon-se.jpg",
+  "nom": "salon",
+  "role": "ouverture",
+  "beaute": 4,
+  "mobile": "4:5",
+  "cadrage": [
+   62,
+   52
+  ],
+  "page": "cabinet",
+  "alt": "Le salon du cabinet : fauteuils moutarde autour d'une petite table menthe"
+ },
+ {
+  "source": "recu/formation-intervenantes-sad-auxileo-2.jpg",
+  "nom": "formation-groupe",
+  "role": "carte-service",
+  "beaute": 3,
+  "ratio": "4:3",
+  "largeurs": [
+   640,
+   960,
+   1225
+  ],
+  "cadrage": [
+   55,
+   66
+  ],
+  "page": "formations",
+  "alt": "Françoise Gady avec les intervenantes d'un service d'aide à domicile, en formation au Bouscat en 2026"
+ },
+ {
+  "source": "recu/formation-intervenantes-sad-auxileo.jpg",
+  "nom": "formation-groupe-2",
+  "role": "carte-service",
+  "beaute": 3,
+  "ratio": "4:3",
+  "largeurs": [
+   640,
+   960,
+   1225
+  ],
+  "cadrage": [
+   50,
+   62
+  ],
+  "alt": "Françoise Gady et les intervenantes d'Auxiléo Services autour de la table de formation, au Bouscat en 2026"
+ },
+ {
+  "source": "recu/image-montre-interieur-lumineux.jpg",
+  "nom": "salle-adulte",
+  "role": "carte-service",
+  "beaute": 3,
+  "ratio": "4:3",
+  "largeurs": [
+   640,
+   960,
+   1280
+  ],
+  "cadrage": [
+   55,
+   60
+  ],
+  "alt": "La salle de psychothérapie adulte : deux fauteuils en cuir, une lampe et une bibliothèque"
+ },
+ {
+  "source": "recu/image-montre-salon-therapie.jpg",
+  "nom": "salle-couple",
+  "role": "carte-service",
+  "beaute": 3,
+  "ratio": "4:5",
+  "largeurs": [
+   640,
+   960,
+   1280
+  ],
+  "cadrage": [
+   62,
+   62
+  ],
+  "alt": "Le salon de thérapie de couple : trois sièges en cercle autour d'une petite table"
+ },
+ {
+  "source": "recu/image-montre-cabinet-psychotherapie.jpg",
+  "nom": "salle-enfant",
+  "role": "carte-service",
+  "beaute": 3,
+  "ratio": "4:3",
+  "largeurs": [
+   640,
+   960,
+   1280
+  ],
+  "cadrage": [
+   35,
+   50
+  ],
+  "alt": "Le coin des enfants : jouets, livres, crayons et petit tabouret"
+ },
+ {
+  "source": "recu/image-montre-bureau-cabinet.jpg",
+  "nom": "bureau",
+  "role": "portrait",
+  "beaute": 3,
+  "ratio": "3:4",
+  "largeurs": [
+   480,
+   720,
+   1000
+  ],
+  "cadrage": [
+   45,
+   58
+  ],
+  "alt": "Le bureau en bois du cabinet, sous des cadres noir et blanc"
+ },
+ {
+  "source": "recu/image-montre-exterieur-cabinet.jpg",
+  "nom": "facade",
+  "role": "vignette",
+  "beaute": 2,
+  "ratio": "4:3",
+  "largeurs": [
+   480,
+   800
+  ],
+  "cadrage": [
+   62,
+   45
+  ],
+  "alt": "L'entrée du Cabinet de la Forêt, avenue de la Forêt à Mérignac, dans la verdure"
+ },
+ {
+  "source": "recu/image-montre-seances-app.jpg",
+  "nom": "app-canopee",
+  "role": "vignette",
+  "beaute": 3,
+  "ratio": "4:3",
+  "largeurs": [
+   480,
+   800
+  ],
+  "alt": "Séance d'analyse des pratiques avec l'équipe soignante de l'EHPAD La Canopée, à Bordeaux, en 2025"
+ },
+ {
+  "source": "recu/sitographie-psy.jpg",
+  "nom": "livre",
+  "role": "vignette",
+  "beaute": 2,
+  "ratio": "4:3",
+  "largeurs": [
+   480,
+   800
+  ],
+  "cadrage": [
+   74,
+   50
+  ],
+  "alt": "Couverture du livre de Françoise Gady, Pratiquer une psychologie clinique d'orientation lacanienne"
+ },
+ {
+  "source": "recu/grok/feuillage.jpg",
+  "source_mobile": "recu/grok/feuillage-mobile.jpg",
+  "nom": "grok/feuillage",
+  "role": "section-fond",
+  "beaute": 4,
+  "mobile": "9:16",
+  "zone_texte": "haut",
+  "page": "accueil",
+  "emplacement": "Ouverture de l'accueil : fond derrière le titre et les deux portes, posé en transparence sur le lin",
+  "priorite": "Indispensable",
+  "gabarit": "ouverture",
+  "consigne_scene": "Soft shadows of maritime pine branches and small oak leaves falling across a smooth warm white lime-washed plaster wall, morning sunlight from the upper left, the shadows slightly blurred, large calm empty areas, no objects, no window frame, no furniture, no people.",
+  "alt": "Ombres de feuillage sur un mur clair",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "source": "recu/grok/rideau-lumiere.jpg",
+  "nom": "grok/rideau-lumiere",
+  "role": "ouverture",
+  "beaute": 5,
+  "ratio": "4:5",
+  "mobile": "4:5",
+  "zone_texte": "gauche",
+  "page": "therapies",
+  "emplacement": "Ouverture de la page Thérapies, à droite du titre",
+  "priorite": "Indispensable",
+  "gabarit": "section-fond",
+  "consigne_scene": "A tall window dressed with a sheer natural linen curtain, morning sunlight passing through it and casting soft dappled leaf shadows, a corner of a pale mint side table and a mustard yellow wool throw at the bottom edge, warm white wall, quiet and intimate, no armchair facing the camera, no people.",
+  "alt": "Rideau de lin dans la lumière du matin",
+  "largeurs": [
+   640,
+   1080,
+   1280
+  ]
+ },
+ {
+  "source": "recu/grok/foret-chemin.jpg",
+  "source_mobile": "recu/grok/foret-chemin-mobile.jpg",
+  "nom": "grok/foret",
+  "role": "section-fond",
+  "beaute": 5,
+  "mobile": "9:16",
+  "zone_texte": "gauche",
+  "page": "accueil",
+  "emplacement": "Appel final de l'accueil (« Faire le pas ») : fond plein cadre derrière le titre",
+  "priorite": "Indispensable",
+  "gabarit": "section-fond",
+  "consigne_scene": "A soft sandy footpath winding gently between tall maritime pine trunks in a quiet suburban pine wood, warm morning light and light haze between the trunks, ferns at the edges, calm and open, the path leading away into brightness, no people, no signs, no benches, no buildings.",
+  "alt": "Chemin de sable entre les pins, dans la lumière du matin",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ {
+  "source": "recu/grok/feuille.jpg",
+  "nom": "grok/feuille",
+  "role": "vignette",
+  "beaute": 4,
+  "ratio": "4:3",
+  "largeurs": [
+   640,
+   960
+  ],
+  "page": "accueil",
+  "emplacement": "Section « L'approche » de l'accueil et page Le cabinet (cadre théorique)",
+  "priorite": "Conseillée",
+  "gabarit": "texture",
+  "consigne_scene": "Macro photograph of a single young oak leaf backlit by soft sunlight, its fine veins glowing in pale green and warm gold, out-of-focus warm background with soft bokeh, plenty of empty space on the left, no insects, no water drops.",
+  "alt": "Feuille de chêne en contre-jour, nervures visibles"
+ },
+ {
+  "source": "recu/grok/crayons.jpg",
+  "nom": "grok/crayons",
+  "role": "carte-service",
+  "beaute": 4,
+  "ratio": "16:10",
+  "largeurs": [
+   640,
+   960,
+   1280
+  ],
+  "page": "therapies",
+  "emplacement": "Page Thérapies, chapitre Enfants et adolescents : image d'en-tête du chapitre",
+  "priorite": "Conseillée",
+  "gabarit": "scene-metier",
+  "consigne_scene": "Top-down view of a light oak table with a blank sheet of drawing paper, a few colored pencils, a small ball of mint green modeling clay and a closed picture book with a plain cover, soft daylight, calm and tidy, no hands, no drawing on the paper, no letters.",
+  "alt": "Feuille blanche, crayons de couleur et pâte à modeler sur une table"
+ },
+ {
+  "source": "recu/grok/table-formation.jpg",
+  "nom": "grok/table-formation",
+  "role": "carte-service",
+  "beaute": 4,
+  "ratio": "16:10",
+  "largeurs": [
+   640,
+   960,
+   1280
+  ],
+  "page": "formations",
+  "emplacement": "Page Formations, section Modalités (intra ou coworking)",
+  "priorite": "Conseillée",
+  "gabarit": "scene-metier",
+  "consigne_scene": "A bright meeting room prepared for a small workshop: a long light oak table with open blank notebooks, pens, a few pastel sticky notes left blank, ceramic mugs and a jug of water, chairs pushed in, soft daylight from large windows, no people, no screen, no writing anywhere.",
+  "alt": "Salle préparée pour une formation : carnets, tasses et pense-bêtes sur une table"
+ },
+ {
+  "source": "recu/grok/fenetre.jpg",
+  "source_mobile": "recu/grok/fenetre-mobile.jpg",
+  "nom": "grok/fenetre",
+  "role": "404",
+  "beaute": 5,
+  "mobile": "9:16",
+  "zone_texte": "gauche",
+  "page": "404",
+  "emplacement": "Page 404 : fond plein cadre",
+  "priorite": "Conseillée",
+  "gabarit": "404",
+  "consigne_scene": "A tall window left wide open onto green pine trees, a sheer linen curtain lifted by a light breeze, soft dappled light on a warm white wall and on the blond oak floor, peaceful and airy, no furniture in front of the window, no people.",
+  "alt": "Fenêtre ouverte sur les pins, rideau soulevé par le vent"
+ }
+]

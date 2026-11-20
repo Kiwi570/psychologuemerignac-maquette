@@ -1,0 +1,16 @@
+{
+  "therapies": [
+    { "q": "Combien de temps dure une séance ?", "r": "Environ 45 minutes, en face à face." },
+    { "q": "Quel est le tarif d'une séance ?", "r": "Le tarif vous est communiqué lors du premier échange, après votre prise de contact." },
+    { "q": "Combien de temps dure une thérapie ?", "r": "C'est variable : parfois brève, parfois plus longue, le temps de se sentir mieux et d'évaluer les changements." },
+    { "q": "Les parents assistent-ils aux séances de leur enfant ?", "r": "Les séances alternent des temps avec l'enfant seul et des temps avec les parents, considérés comme des partenaires essentiels." },
+    { "q": "Après une thérapie de couple, peut-on consulter individuellement ?", "r": "Oui. Une consultation de couple peut révéler un besoin individuel ; chacun peut alors choisir son propre thérapeute." }
+  ],
+  "formations": [
+    { "q": "Où se déroulent les formations ?", "r": "En présentiel, dans votre établissement (intra) ou dans un espace de coworking à Bordeaux ou à Mérignac." },
+    { "q": "Quel délai prévoir ?", "r": "Comptez de 1 à 4 mois entre votre demande et le début de la formation. Les dates 2026-2027 se fixent ensemble." },
+    { "q": "Comment financer la formation ?", "r": "Par votre OPCO (OPCO Santé, OPCO EP) ou d'autres fonds de formation. Le cabinet est certifié Qualiopi pour ses actions de formation." },
+    { "q": "Et pour une personne en situation de handicap ?", "r": "Les formations sont accessibles. Un contact préalable permet d'étudier un accompagnement personnalisé, avec le CRFH, Cap Emploi 33, la MDPH de la Gironde et l'AGEFIPH." },
+    { "q": "Peut-on adapter un programme ?", "r": "Oui : chaque formation peut être construite sur mesure, selon les besoins, la taille et les priorités de votre équipe." }
+  ]
+}

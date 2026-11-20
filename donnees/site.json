@@ -1,0 +1,39 @@
+{
+  "nom": "Cabinet de la Forêt",
+  "adresse": "https://psychologuemerignac-maquette.vercel.app",
+  "siteActuel": "www.psychologuemerignac.com",
+  "version": 1,
+  "langues": [
+    "fr"
+  ],
+  "navigation": [
+    "accueil",
+    "therapies",
+    "formations",
+    "cabinet",
+    "contact"
+  ],
+  "actionEntete": {
+    "page": "contact"
+  },
+  "couleurs": {
+    "fond": "#F6F0E7",
+    "texte": "#2A2522",
+    "voile": "#1F3A33",
+    "ouverture": "#EFE6D8",
+    "menu": "#F6F0E7",
+    "theme": "#F6F0E7"
+  },
+  "formeVoile": "vague",
+  "contact": {
+    "telephone": "06 72 99 10 59",
+    "telephoneLien": "+33672991059",
+    "email": "f.gady@hotmail.fr",
+    "adresse": "21 avenue de la Forêt, 33700 Mérignac"
+  },
+  "polices": [
+    "/assets/polices/fraunces-latin-soft-normal.woff2"
+  ],
+  "imagePartage": "salon-1280.webp",
+  "curseur": true
+}

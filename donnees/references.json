@@ -1,0 +1,26 @@
+{
+  "ruban": ["CHU de Bordeaux", "Centre hospitalier Charles Perrens", "Bagatelle", "EHPAD Home Marie Curie", "EHPAD La Canopée", "EHPAD Fontaudin", "Auxiléo Services", "Vitalliance", "Amelis", "CCAS de Talence", "Crèche Na!", "Graine d'école", "Relais Enfants Parents"],
+  "groupes": [
+    { "titre": "Établissements de santé", "lignes": [
+      { "nom": "CHU de Bordeaux (IMS Académie)", "detail": "Tutorat paramédical, prévention de l'agressivité, accueil, soins relationnels en maladie chronique", "annees": "2018 à 2023" },
+      { "nom": "Centre hospitalier Charles Perrens (IFAPS)", "detail": "Accueil des nouveaux infirmiers (7 groupes), référent d'équipe, troubles mentaux en soins généraux", "annees": "2023 à 2026" },
+      { "nom": "Bagatelle (clinique, HAD, Bagatelle Formation)", "detail": "Stress des soignants, posture et communication en HAD, intervention à domicile", "annees": "2021 à 2026" }
+    ] },
+    { "titre": "EHPAD", "lignes": [
+      { "nom": "EHPAD Home Marie Curie, Villenave-d'Ornon", "detail": "Fragilité et épuisement des aidants, puis analyse des pratiques mensuelle", "annees": "2023 à 2026" },
+      { "nom": "EHPAD La Canopée, Bordeaux", "detail": "Analyse des pratiques mensuelle de l'équipe soignante", "annees": "2025" },
+      { "nom": "EHPAD Fontaudin, Pessac", "detail": "Soutien aux aidants, Plan Alzheimer 2008-2012", "annees": "" }
+    ] },
+    { "titre": "Aide à domicile", "lignes": [
+      { "nom": "Auxiléo Services, Le Bouscat", "detail": "Développement professionnel continu, 8 modules de 3 h 30", "annees": "2026" },
+      { "nom": "Vitalliance", "detail": "Posture professionnelle et analyse des pratiques, 4 sites régionaux", "annees": "2024 à 2026" },
+      { "nom": "CCAS de Talence", "detail": "Analyse des pratiques des 60 auxiliaires de vie et aides à domicile", "annees": "2020 à 2023" },
+      { "nom": "Amelis Bordeaux", "detail": "Posture et intervention à domicile", "annees": "2026" }
+    ] },
+    { "titre": "Petite enfance et associations", "lignes": [
+      { "nom": "Crèche Na!, Mérignac", "detail": "Analyse des pratiques mensuelle", "annees": "2025 et 2026" },
+      { "nom": "Crèche Graine d'école, Pessac", "detail": "Analyse des pratiques mensuelle", "annees": "2022 à 2025" },
+      { "nom": "Relais Enfants Parents (REPA)", "detail": "Bénévoles qui maintiennent le lien entre l'enfant et son parent incarcéré", "annees": "2022 à 2025" }
+    ] }
+  ]
+}

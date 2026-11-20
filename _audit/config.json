@@ -1,0 +1,6 @@
+{
+  "siteActuel": "www.psychologuemerignac.com",
+  "pagesTypes": ["/", "/therapies", "/formations", "/cabinet", "/contact"],
+  "effets": ["papillon", "feuillage", "portes", "allumer", "ruban", "envol", "lin", "bandeau", "mosaique", "pose"],
+  "grille": { "dispenses": {} }
+}

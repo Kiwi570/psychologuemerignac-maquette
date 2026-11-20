@@ -1,0 +1,142 @@
+{
+  "client": "Cabinet de la Forêt",
+  "activite": "santé",
+  "direction": "Halte",
+  "date": "2026-11-20T20:17:54.754Z",
+  "images": [
+    {
+      "nom": "feuillage",
+      "fichier": "feuillage.jpg",
+      "page": "accueil",
+      "emplacement": "Ouverture de l'accueil : fond derrière le titre et les deux portes, posé en transparence sur le lin (ordinateur)",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Soft shadows of maritime pine branches and small oak leaves falling across a smooth warm white lime-washed plaster wall, morning sunlight from the upper left, the shadows slightly blurred, large calm empty areas, no objects, no window frame, no furniture, no people. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "feuillage",
+      "fichier": "feuillage-mobile.jpg",
+      "page": "accueil",
+      "emplacement": "Ouverture de l'accueil : fond derrière le titre et les deux portes, posé en transparence sur le lin (téléphone)",
+      "role": "section-fond",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Soft shadows of maritime pine branches and small oak leaves falling across a smooth warm white lime-washed plaster wall, morning sunlight from the upper left, the shadows slightly blurred, large calm empty areas, no objects, no window frame, no furniture, no people. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "rideau-lumiere",
+      "fichier": "rideau-lumiere.jpg",
+      "page": "therapies",
+      "emplacement": "Ouverture de la page Thérapies, à droite du titre",
+      "role": "ouverture",
+      "format": "4:5",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "A tall window dressed with a sheer natural linen curtain, morning sunlight passing through it and casting soft dappled leaf shadows, a corner of a pale mint side table and a mustard yellow wool throw at the bottom edge, warm white wall, quiet and intimate, no armchair facing the camera, no people. Vertical composition, aspect ratio 4:5, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "foret",
+      "fichier": "foret-chemin.jpg",
+      "page": "accueil",
+      "emplacement": "Appel final de l'accueil (« Faire le pas ») : fond plein cadre derrière le titre (ordinateur)",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "A soft sandy footpath winding gently between tall maritime pine trunks in a quiet suburban pine wood, warm morning light and light haze between the trunks, ferns at the edges, calm and open, the path leading away into brightness, no people, no signs, no benches, no buildings. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "foret",
+      "fichier": "foret-chemin-mobile.jpg",
+      "page": "accueil",
+      "emplacement": "Appel final de l'accueil (« Faire le pas ») : fond plein cadre derrière le titre (téléphone)",
+      "role": "section-fond",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "A soft sandy footpath winding gently between tall maritime pine trunks in a quiet suburban pine wood, warm morning light and light haze between the trunks, ferns at the edges, calm and open, the path leading away into brightness, no people, no signs, no benches, no buildings. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "feuille",
+      "fichier": "feuille.jpg",
+      "page": "accueil",
+      "emplacement": "Section « L'approche » de l'accueil et page Le cabinet (cadre théorique)",
+      "role": "vignette",
+      "format": "4:3",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "texture",
+      "pieges": [],
+      "consigne": "Macro photograph of a single young oak leaf backlit by soft sunlight, its fine veins glowing in pale green and warm gold, out-of-focus warm background with soft bokeh, plenty of empty space on the left, no insects, no water drops. Horizontal composition, aspect ratio 4:3, main subject well inside the central area with generous margins on every side, so the image can be cropped. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "crayons",
+      "fichier": "crayons.jpg",
+      "page": "therapies",
+      "emplacement": "Page Thérapies, chapitre Enfants et adolescents : image d'en-tête du chapitre",
+      "role": "carte-service",
+      "format": "16:10",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "texte parasite"
+      ],
+      "consigne": "Top-down view of a light oak table with a blank sheet of drawing paper, a few colored pencils, a small ball of mint green modeling clay and a closed picture book with a plain cover, soft daylight, calm and tidy, no hands, no drawing on the paper, no letters. Aspect ratio 16:10, main subject well inside the central area with generous margins on every side, so the image can be cropped. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. Pages completely blank, blank book spines, abstract unreadable marks, plain unmarked surfaces, dials with tick marks only and no numbers. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "table-formation",
+      "fichier": "table-formation.jpg",
+      "page": "formations",
+      "emplacement": "Page Formations, section Modalités (intra ou coworking)",
+      "role": "carte-service",
+      "format": "16:10",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "scene-metier",
+      "pieges": [
+        "texte parasite"
+      ],
+      "consigne": "A bright meeting room prepared for a small workshop: a long light oak table with open blank notebooks, pens, a few pastel sticky notes left blank, ceramic mugs and a jug of water, chairs pushed in, soft daylight from large windows, no people, no screen, no writing anywhere. Aspect ratio 16:10, main subject well inside the central area with generous margins on every side, so the image can be cropped. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. Pages completely blank, blank book spines, abstract unreadable marks, plain unmarked surfaces, dials with tick marks only and no numbers. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "fenetre",
+      "fichier": "fenetre.jpg",
+      "page": "404",
+      "emplacement": "Page 404 : fond plein cadre (ordinateur)",
+      "role": "404",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "404",
+      "pieges": [],
+      "consigne": "A tall window left wide open onto green pine trees, a sheer linen curtain lifted by a light breeze, soft dappled light on a warm white wall and on the blond oak floor, peaceful and airy, no furniture in front of the window, no people. Landscape composition, aspect ratio 3:2, generous empty space on the left third of the frame for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "fenetre",
+      "fichier": "fenetre-mobile.jpg",
+      "page": "404",
+      "emplacement": "Page 404 : fond plein cadre (téléphone)",
+      "role": "404",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Conseillée",
+      "gabarit": "404",
+      "pieges": [],
+      "consigne": "A tall window left wide open onto green pine trees, a sheer linen curtain lifted by a light breeze, soft dappled light on a warm white wall and on the blond oak floor, peaceful and airy, no furniture in front of the window, no people. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Editorial health photography, calm minimal composition, calm, warm and welcoming, quiet and reassuring mood, palette of warm linen white, soft mustard yellow, pale mint green, blond oak wood, a touch of burnt orange, soft morning sunlight filtered through tree leaves, tactile lime-washed plaster, sheer linen, blond oak, paper, set in a calm place among maritime pine trees near Bordeaux on a mild late-spring morning, clean lines, generous negative space, subtle film grain, realistic, high detail. No patient, no medical procedure, no readable file or screen, no syringe, no blood, no anatomy chart, no stairs, no heights, no enclosed space, nothing frightening. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    }
+  ]
+}

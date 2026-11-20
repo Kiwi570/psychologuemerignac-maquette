@@ -1,0 +1,423 @@
+{
+  "commun": {
+    "navigation": "Navigation principale",
+    "menu": "Menu",
+    "fermer": "Fermer",
+    "langueAutre": "Autre langue",
+    "actionEntete": "Prendre rendez-vous",
+    "appeler": "Appeler",
+    "sommaire": "Sommaire",
+    "confort": "Le cabinet",
+    "retourHaut": "Retour en haut",
+    "maquette": "Maquette de démonstration : formulaires simulés, aucune donnée n'est envoyée.",
+    "evitement": "Aller au contenu",
+    "mentionIa": "Illustration générée",
+    "pause": "Pause",
+    "lecture": "Lecture",
+    "introLigne": "Former · Soutenir · Inspirer",
+    "logoAccueil": "Cabinet de la Forêt, accueil",
+    "mentions": "Mentions légales",
+    "confidentialite": "Politique de confidentialité",
+    "aCompleter": "à compléter",
+    "piedTexte": "Françoise Gady, psychologue clinicienne, cadre de santé et formatrice. Thérapies et formations à Mérignac, Bordeaux Métropole.",
+    "horaires": "Sur rendez-vous, de 9 h à 20 h 30",
+    "identifiants": "SIRET 502 600 984 00038 · RPPS 10009596668 · Organisme de formation enregistré sous le n° 75331173733 auprès du préfet de Nouvelle-Aquitaine (cet enregistrement ne vaut pas agrément de l'État) · Certifié Qualiopi au titre des actions de formation.",
+    "urgenceCourt": "En cas d'urgence : 3114 (prévention du suicide, 24 h/24) ou SECOP, CH Charles Perrens, 05 56 56 34 34.",
+    "pagesTitre": "Pages",
+    "coordonnees": "Coordonnées",
+    "itineraire": "Itinéraire"
+  },
+  "pages": {
+    "accueil": {
+      "titre": "Françoise Gady, psychologue clinicienne à Mérignac · Cabinet de la Forêt",
+      "description": "Psychothérapies pour adultes, couples, enfants et adolescents, et formations Qualiopi pour les équipes du médico-social, au Cabinet de la Forêt à Mérignac.",
+      "nav": "Accueil",
+      "partageAlt": "Cabinet de la Forêt : le salon aux fauteuils moutarde et le papillon du logo",
+      "accroche": "Un lieu de halte, pour se remettre en mouvement."
+    },
+    "therapies": {
+      "titre": "Thérapies adultes, couples, enfants et adolescents à Mérignac · Cabinet de la Forêt",
+      "description": "Psychothérapie adulte, thérapie de couple et psychothérapie de l'enfant et de l'adolescent avec Françoise Gady, psychologue clinicienne à Mérignac.",
+      "nav": "Thérapies",
+      "partageAlt": "Thérapies au Cabinet de la Forêt, rideau de lin dans la lumière du matin",
+      "accroche": "Adultes, couples, enfants et adolescents."
+    },
+    "formations": {
+      "titre": "Formations Qualiopi pour les équipes du médico-social · Cabinet de la Forêt",
+      "description": "Assistantes de vie, santé mentale à domicile, communication non violente, analyse des pratiques : programmes, tarifs et modalités des formations du Cabinet de la Forêt.",
+      "nav": "Formations",
+      "partageAlt": "Formation des intervenantes d'un service d'aide à domicile avec Françoise Gady",
+      "accroche": "Former les équipes du soin."
+    },
+    "cabinet": {
+      "titre": "Le cabinet et Françoise Gady · Cabinet de la Forêt, Mérignac",
+      "description": "Le Cabinet de la Forêt à Mérignac, le parcours de Françoise Gady, son cadre théorique, la déontologie du psychologue et les numéros utiles.",
+      "nav": "Le cabinet",
+      "partageAlt": "Le salon du Cabinet de la Forêt à Mérignac",
+      "accroche": "Le Cabinet de la Forêt et Françoise Gady."
+    },
+    "contact": {
+      "titre": "Prendre rendez-vous · Cabinet de la Forêt, Mérignac",
+      "description": "Prendre rendez-vous avec Françoise Gady, psychologue clinicienne, ou demander un devis de formation : téléphone, adresse et accès au Cabinet de la Forêt.",
+      "nav": "Contact",
+      "partageAlt": "Contact du Cabinet de la Forêt à Mérignac",
+      "accroche": "Prendre rendez-vous."
+    },
+    "404": {
+      "titre": "Page introuvable · Cabinet de la Forêt",
+      "description": "Cette page n'existe pas ou plus.",
+      "nav": "Page introuvable",
+      "partageAlt": "Page introuvable",
+      "accroche": "Page introuvable"
+    }
+  },
+  "accueil": {
+    "ouv": {
+      "surtitre": "Psychologue clinicienne et formatrice · Mérignac",
+      "titre1": "Un lieu de",
+      "titreMot": "halte,",
+      "titre2": "pour se remettre en mouvement.",
+      "texte": "Françoise Gady reçoit adultes, couples, enfants et adolescents au Cabinet de la Forêt, et forme les équipes du soin et de l'accompagnement.",
+      "action": "Prendre rendez-vous",
+      "info": "Sur rendez-vous, de 9 h à 20 h 30 · 06 72 99 10 59",
+      "porteG": "Consulter",
+      "porteGSous": "Adultes · Couples · Enfants et adolescents",
+      "porteD": "Former vos équipes",
+      "porteDSous": "EHPAD · Aide à domicile · Établissements de santé"
+    },
+    "manifeste": {
+      "citation": "Faire le pas d'entreprendre une thérapie, c'est déjà démarrer le processus thérapeutique.",
+      "auteur": "Françoise Gady",
+      "texte": "Le cabinet se veut un lieu de halte, de remise en question et de lâcher-prise, à l'écart des conditionnements sociaux, culturels et affectifs.",
+      "motifsTitre": "On consulte pour…",
+      "motifsRegion": "Motifs de consultation"
+    },
+    "accomp": {
+      "surtitre": "Thérapies",
+      "titre": "Pour vous, à deux, ou pour votre enfant",
+      "lien": "En savoir plus"
+    },
+    "cabinet": {
+      "surtitre": "Le cabinet",
+      "titre": "Au nord de Mérignac, un cabinet au calme",
+      "texte": "Avenue de la Forêt, dans la verdure : une salle pour les adultes, un salon pour les couples, un coin pour les enfants avec jouets, livres et crayons.",
+      "p1": "Séances d'environ 45 minutes",
+      "p2": "Sur rendez-vous, de 9 h à 20 h 30",
+      "p3": "Tarif communiqué lors du premier échange",
+      "p4": "Supervision régulière, dans le respect de l'anonymat",
+      "lien": "Découvrir le cabinet"
+    },
+    "approche": {
+      "surtitre": "L'approche",
+      "titre": "Une approche construite avec vous",
+      "texte": "Elle articule les concepts cliniques fondamentaux et les connaissances actuelles en santé mentale, dans le respect de votre singularité et de votre histoire.",
+      "a1": "La théorie systémique",
+      "a1t": "La personne dans ses liens : famille, couple, histoire transmise.",
+      "a2": "La psychanalyse freudienne et lacanienne",
+      "a2t": "Ce qui se répète, ce qui se dit sans le savoir, la place du désir.",
+      "a3": "Les sciences cognitives et neurobiologiques",
+      "a3t": "Une large place faite aux émotions et à leur compréhension.",
+      "lien": "Le cadre théorique"
+    },
+    "formations": {
+      "surtitre": "Organisme de formation certifié Qualiopi",
+      "titre": "Former les équipes du soin et de l'accompagnement",
+      "texte": "Pour les EHPAD, les services d'aide à domicile et les établissements de santé : en intra ou en espace de coworking, au catalogue ou sur mesure, en lien avec les recommandations de la HAS.",
+      "c1": "stagiaires accueillis en 2024",
+      "c2": "de satisfaction globale en 2024",
+      "c3": "de satisfaction en analyse des pratiques",
+      "c4": "programmes au catalogue 2026",
+      "programmes": "Le catalogue 2026",
+      "references": "Ils lui ont confié leurs équipes",
+      "lienCatalogue": "Programmes et tarifs",
+      "lienDevis": "Demander un devis",
+      "legende": "Formation des intervenantes d'Auxiléo Services, Le Bouscat, 2026"
+    },
+    "francoise": {
+      "surtitre": "Qui vous reçoit",
+      "titre": "Françoise Gady",
+      "role": "Psychologue clinicienne, cadre de santé et formatrice",
+      "texte": "Formée à la psychologie clinique à Paris VIII, à la thérapie familiale systémique au CHU de Bordeaux, membre de l'École de la Cause freudienne depuis 2008, elle exerce aussi bien en cabinet qu'auprès des équipes soignantes.",
+      "livre": "Autrice de « Pratiquer une psychologie clinique d'orientation lacanienne » (Éditions Paf, 2008).",
+      "legende": "En analyse des pratiques avec l'équipe de l'EHPAD La Canopée, 2025",
+      "lien": "Son parcours"
+    },
+    "fin": {
+      "titre": "Faire le pas",
+      "texte": "Un premier échange, par téléphone ou par message, pour faire connaissance et convenir d'un rendez-vous.",
+      "moi": "Pour moi",
+      "couple": "Pour notre couple",
+      "enfant": "Pour mon enfant",
+      "equipe": "Pour mon équipe"
+    }
+  },
+  "therapies": {
+    "ouv": {
+      "surtitre": "Thérapies à Mérignac",
+      "titre1": "Adultes, couples,",
+      "titre2": "enfants et adolescents",
+      "texte": "Un accompagnement construit avec vous, dans le respect de votre singularité et de votre histoire.",
+      "action": "Prendre rendez-vous",
+      "info": "Séances d'environ 45 minutes · sur rendez-vous, de 9 h à 20 h 30",
+      "alt": "Rideau de lin dans la lumière du matin"
+    },
+    "sommaire": "Sur cette page",
+    "s1": "Adultes",
+    "s2": "Couples",
+    "s3": "Enfants et adolescents",
+    "s4": "Questions",
+    "adulte": {
+      "surtitre": "Psychothérapie adulte",
+      "titre": "Défaire ce qui verrouille",
+      "texte": "Le travail porte sur ce qui vous amène : un symptôme, une question, une impasse. Il s'agit de libérer la personnalité de ce qui la verrouille, pour que le désir retrouve sa place.",
+      "deroule": "Comment se passent les séances",
+      "d1": "En face à face, avec des échanges : au début, et tant que nécessaire, personne n'est laissé seul dans le silence.",
+      "d2": "Environ 45 minutes par séance ; le tarif est communiqué lors du premier échange.",
+      "d3": "Une durée variable : parfois brève, parfois plus longue, le temps de se sentir mieux et d'évaluer les changements.",
+      "travailTitre": "Ce sur quoi l'on travaille",
+      "travail": "Symptômes · Questionnements · Impasses · Schémas de pensée · Émotions · Conflits psychiques · Mécanismes de défense · Stratégies d'adaptation"
+    },
+    "couple": {
+      "surtitre": "Thérapie de couple",
+      "titre": "Faire de la crise une occasion",
+      "texte": "Incompréhensions, non-dits, difficultés de communication : un malaise, ponctuel ou répété, peut toucher la vie commune et la sexualité, quelle que soit l'orientation du couple. La thérapie peut aider à sortir de la répétition des ruptures, à retrouver une intimité, ou à se séparer sans dégâts importants.",
+      "axesTitre": "Deux axes de travail",
+      "axe1": "L'histoire transmise",
+      "axe1t": "Chacun porte une histoire, une culture, des rituels familiaux, et reproduit souvent sans le savoir des schémas hérités. Un génogramme peut être construit et analysé en séance.",
+      "axe2": "L'ici et maintenant",
+      "axe2t": "Observer la communication entre les partenaires en séance, favoriser le dialogue, faire émerger demandes et attentes, pour une relation qui soutient plutôt qu'elle ne détruit.",
+      "attendreTitre": "Ce que l'on peut attendre",
+      "a1": "Apprendre à méta-communiquer : parler de sa propre façon de communiquer",
+      "a2": "Rétablir une communication qui fonctionne",
+      "a3": "Distinguer le couple conjugal du couple parental",
+      "a4": "Repérer les habitudes relationnelles : besoins, sentiments, sexualité",
+      "a5": "Prendre conscience du passé qui pèse sur la relation actuelle",
+      "a6": "Comprendre la fonction des symptômes",
+      "a7": "Mobiliser les ressources de chacun",
+      "a8": "Construire ensemble une relation qui fonctionne",
+      "note": "Une consultation de couple peut révéler un besoin individuel : chacun peut alors choisir son propre thérapeute.",
+      "genoAlt": "Génogramme : deux familles d'origine, le couple au centre",
+      "genoG": "Sa famille",
+      "genoD": "Sa famille",
+      "genoC": "Le couple"
+    },
+    "enfant": {
+      "surtitre": "Psychothérapie enfant et adolescent",
+      "titre": "Quand les mots manquent encore",
+      "texte": "Chez l'enfant, la souffrance s'exprime souvent autrement : par le corps, le comportement ou le jeu. Il n'a pas encore les moyens de mettre des mots sur ce qu'il ressent.",
+      "motifsTitre": "Pourquoi consulter",
+      "motifs": "Sommeil et cauchemars · Alimentation · Hyperactivité · Apprentissages · Phobie scolaire · Anxiété · Tristesse persistante · Estime de soi · Comportement · Précocité · Langage",
+      "seancesTitre": "Comment se passent les séances",
+      "seances": "Des temps avec l'enfant seul et des temps avec les parents. Les médiations s'adaptent à l'âge :",
+      "m1": "Jeux",
+      "m2": "Dessins",
+      "m3": "Pâte à modeler",
+      "m4": "Livres",
+      "m5": "Entretiens",
+      "m6": "Jeux vidéo, pour les pré-ados et ados",
+      "parentsTitre": "Les parents, partenaires",
+      "parents": "La guidance parentale porte sur la fonction parentale, la communication et la qualité des relations familiales.",
+      "cadreTitre": "Un cadre qui contient",
+      "cadre": "Des séances régulières, qui sécurisent l'enfant ; si besoin, un travail en réseau avec un pédopsychiatre, un orthophoniste ou un psychomotricien, et une intervention possible dans le cadre d'un PAP.",
+      "orientation": "Éducation positive, approche Loczy, approches systémique et psychanalytique.",
+      "objectifs": "Objectifs construits avec la famille : apaiser le symptôme, restaurer la sécurité intérieure de l'enfant, améliorer sa vie scolaire et relationnelle."
+    },
+    "faq": {
+      "titre": "Vos questions"
+    },
+    "fin": {
+      "titre": "Prendre rendez-vous",
+      "texte": "Le premier pas peut être un simple appel.",
+      "moi": "Pour moi",
+      "couple": "Pour notre couple",
+      "enfant": "Pour mon enfant"
+    }
+  },
+  "formations": {
+    "ouv": {
+      "surtitre": "Organisme de formation · certifié Qualiopi",
+      "titre1": "Former les équipes",
+      "titre2": "du soin et de",
+      "titreMot": "l'accompagnement",
+      "texte": "EHPAD, services d'aide à domicile, établissements de santé : quatre programmes au catalogue 2026, ou une formation construite sur mesure pour votre équipe.",
+      "action": "Demander un devis",
+      "action2": "Voir les programmes",
+      "info": "En intra ou en coworking · 1 à 4 mois entre la demande et le début",
+      "c1": "de satisfaction globale en 2024",
+      "c2": "stagiaires accueillis en 2024",
+      "legende": "Formation des intervenantes d'Auxiléo Services, Le Bouscat, 2026"
+    },
+    "programmes": {
+      "surtitre": "Catalogue 2026",
+      "titre": "Quatre programmes",
+      "duree": "Durée",
+      "public": "Public",
+      "objectifs": "Objectifs",
+      "voir": "Voir le programme",
+      "devis": "Demander un devis pour ce programme"
+    },
+    "tarifs": {
+      "surtitre": "Tarifs",
+      "titre": "Des tarifs clairs, en intra",
+      "texte": "Net de taxe, TVA non applicable. Frais de déplacement hors agglomération bordelaise et location éventuelle d'une salle de coworking en sus.",
+      "l1": "Groupe de 6 à 12 personnes",
+      "l1p": "3 400 €",
+      "l1u": "par jour de session",
+      "l1n": "soit 283 € par stagiaire pour 12",
+      "l2": "Groupe jusqu'à 5 personnes",
+      "l2p": "1 475 €",
+      "l2u": "par jour de session",
+      "l2n": "soit 295 € par stagiaire pour 5",
+      "l3": "Analyse des pratiques",
+      "l3p": "160 €",
+      "l3u": "de l'heure",
+      "l3n": "séances de 1 h 30 à 3 h 30",
+      "estimTitre": "Estimez votre session",
+      "estimType": "Formation",
+      "estimJour": "Programme en journées",
+      "estimApp": "Analyse des pratiques",
+      "estimJours": "Nombre de jours",
+      "estimPersonnes": "Nombre de personnes",
+      "estimSeances": "Nombre de séances",
+      "estimDuree": "Durée d'une séance",
+      "estimTotal": "Estimation",
+      "estimParPersonne": "par stagiaire",
+      "estimNote": "Estimation indicative, hors frais de déplacement et de salle. Le devis vous est adressé sur demande.",
+      "estimDevis": "Recevoir un devis"
+    },
+    "modalites": {
+      "surtitre": "Modalités",
+      "titre": "En présentiel, au plus près du terrain",
+      "texte": "Les formations ont lieu dans votre établissement ou dans un espace de coworking à Bordeaux ou à Mérignac. Le présentiel favorise la pratique, les échanges entre pairs et l'ajustement en temps réel aux besoins du groupe.",
+      "m1": "Positionnement avant la formation",
+      "m2": "Mises en situation, ateliers, analyse de situations vécues",
+      "m3": "Évaluation à chaud, puis à froid quelques semaines après",
+      "m4": "Attestation de réalisation remise à chacun",
+      "m5": "Financement possible par l'OPCO Santé, l'OPCO EP ou d'autres fonds",
+      "m6": "Formations accessibles aux personnes en situation de handicap"
+    },
+    "references": {
+      "surtitre": "Sur le terrain",
+      "titre": "Ils lui ont confié leurs équipes",
+      "legende": "Analyse des pratiques avec l'équipe soignante de l'EHPAD La Canopée, Bordeaux, 2025"
+    },
+    "qualite": {
+      "titre": "Qualité",
+      "texte": "Organisme de formation enregistré sous le numéro 75331173733 auprès du préfet de Nouvelle-Aquitaine ; cet enregistrement ne vaut pas agrément de l'État. Certifié Qualiopi au titre des actions de formation. Formations conformes aux recommandations de bonnes pratiques de la HAS."
+    },
+    "faq": {
+      "titre": "Questions des établissements"
+    },
+    "fin": {
+      "titre": "Parlons de votre équipe",
+      "texte": "Un échange pour comprendre vos besoins, vos contraintes et le calendrier, puis une proposition écrite.",
+      "action": "Demander un devis"
+    }
+  },
+  "cabinet": {
+    "ouv": {
+      "surtitre": "21 avenue de la Forêt · Mérignac",
+      "titre1": "Le Cabinet",
+      "titreMot": "de la Forêt",
+      "texte": "Au nord de Mérignac, dans Bordeaux Métropole : un lieu calme pour les thérapies, et le siège d'un organisme de formation.",
+      "action": "Prendre rendez-vous",
+      "info": "Sur rendez-vous, de 9 h à 20 h 30 · 06 72 99 10 59"
+    },
+    "francoise": {
+      "surtitre": "Qui vous reçoit",
+      "titre": "Françoise Gady",
+      "role": "Psychologue clinicienne, cadre de santé et formatrice",
+      "texte": "Elle accompagne adultes, couples, enfants et adolescents en cabinet, et forme depuis 2017 les équipes de l'hôpital, des EHPAD et de l'aide à domicile. Son travail clinique est régulièrement supervisé, dans le respect de l'anonymat.",
+      "parcours": "Parcours",
+      "livreAlt": "Couverture du livre de Françoise Gady",
+      "livre": "Son livre : « Pratiquer une psychologie clinique d'orientation lacanienne », Éditions Paf, 2008. Comment l'orientation lacanienne éclaire la pratique du psychologue clinicien en institution."
+    },
+    "cadre": {
+      "surtitre": "Cadre théorique",
+      "titre": "Plusieurs regards, une seule attention",
+      "texte": "Les références viennent des sciences humaines : la théorie systémique, la psychanalyse freudienne et lacanienne, et les sciences cognitives et neurobiologiques, qui font une large place aux émotions.",
+      "c1": "Systémique",
+      "c1t": "Formation à la thérapie familiale systémique au CHU de Bordeaux.",
+      "c2": "Psychanalyse",
+      "c2t": "École de la Cause freudienne, Association des Psychologues Freudiens, CPCT de Bordeaux.",
+      "c3": "Sciences cognitives",
+      "c3t": "Les connaissances actuelles en santé mentale et sur les émotions.",
+      "murTitre": "Au mur du salon",
+      "mur": "Freud · Lacan · Bowlby · Anna Freud · Tobie Nathan · Watzlawick · Dolto · Martin Luther King"
+    },
+    "deonto": {
+      "surtitre": "Déontologie",
+      "titre": "Un titre protégé, un cadre clair",
+      "d1": "Le titre de psychologue est protégé en France : il exige cinq années d'études universitaires, stages compris.",
+      "d2": "La profession suit un code de déontologie adopté en 1996 et révisé en 2012 : il protège patients et praticiens et garantit la confidentialité.",
+      "d3": "Il n'existe pas d'ordre national des psychologues. Le RPPS, répertoire national des professionnels de santé, et le SIRET permettent d'identifier le cabinet.",
+      "rpps": "RPPS 10009596668",
+      "siret": "SIRET 502 600 984 00038"
+    },
+    "ressources": {
+      "surtitre": "Ressources",
+      "titre": "En cas d'urgence",
+      "texte": "Le cabinet ne reçoit que sur rendez-vous. Si vous êtes en danger, ou si un proche l'est, ces numéros répondent.",
+      "partenairesTitre": "Partenaires et relais à Bordeaux",
+      "partenaires": "CMP de Mérignac (adultes et enfants) · Alcool Info Service · Caan'Abus · CEID · IREPS Aquitaine · AFEP · Centre hospitalier Charles Perrens · UNAFAM Gironde, 05 56 81 44 32"
+    },
+    "fin": {
+      "titre": "Venir au cabinet",
+      "texte": "21 avenue de la Forêt, 33700 Mérignac. Sur rendez-vous, de 9 h à 20 h 30.",
+      "action": "Prendre rendez-vous"
+    }
+  },
+  "contact": {
+    "ouv": {
+      "surtitre": "Contact et rendez-vous",
+      "titre": "Prendre rendez-vous",
+      "texte": "Par téléphone, c'est le plus simple. Vous pouvez aussi laisser un message : Françoise Gady vous rappelle.",
+      "action": "Appeler le 06 72 99 10 59",
+      "info": "Sur rendez-vous, de 9 h à 20 h 30",
+      "emailTitre": "Par e-mail"
+    },
+    "form": {
+      "titre": "Laisser un message",
+      "onglet1": "Consulter",
+      "onglet2": "Former une équipe",
+      "motif": "Pour qui",
+      "motifAdulte": "Pour moi",
+      "motifCouple": "Pour notre couple",
+      "motifEnfant": "Pour mon enfant ou mon adolescent",
+      "creneau": "Moment préféré pour être rappelé",
+      "creneauMatin": "Le matin",
+      "creneauAprem": "L'après-midi",
+      "creneauSoir": "En fin de journée",
+      "structure": "Établissement ou service",
+      "programme": "Programme",
+      "programmeMesure": "Sur mesure",
+      "effectif": "Nombre de personnes à former",
+      "periode": "Période souhaitée",
+      "nom": "Nom et prénom",
+      "tel": "Téléphone",
+      "email": "E-mail",
+      "message": "Votre message",
+      "messageAide": "Inutile de tout expliquer : quelques mots suffisent.",
+      "donnees": "Vos coordonnées servent uniquement à vous recontacter. Politique de confidentialité : à compléter.",
+      "envoyer": "Envoyer le message",
+      "simule": "Maquette : ce formulaire est simulé, rien n'a été envoyé."
+    },
+    "acces": {
+      "surtitre": "Accès",
+      "titre": "21 avenue de la Forêt",
+      "texte": "Au nord de Mérignac, dans Bordeaux Métropole. L'entrée se fait par l'avenue de la Forêt, dans la verdure.",
+      "itineraire": "Itinéraire dans Google Maps",
+      "horaires": "Sur rendez-vous, de 9 h à 20 h 30"
+    },
+    "urgences": {
+      "titre": "En cas d'urgence",
+      "texte": "Le cabinet ne répond pas aux urgences. Si vous êtes en danger, ou si un proche l'est :"
+    }
+  },
+  "introuvable": {
+    "titre": "Cette page s'est envolée",
+    "texte": "Elle n'existe pas ou plus. Le reste du site vous attend.",
+    "retour": "Revenir à l'accueil",
+    "alt": "Fenêtre ouverte sur les pins, rideau soulevé par le vent"
+  }
+}

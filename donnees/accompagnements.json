@@ -1,0 +1,8 @@
+[
+  { "cle": "adulte", "titre": "Pour vous", "sous": "Psychothérapie adulte", "image": "salle-adulte", "alt": "La salle de psychothérapie adulte : deux fauteuils en cuir, une lampe et une bibliothèque",
+    "texte": "En face à face, avec des échanges : au début, et tant que nécessaire, personne n'est laissé seul dans le silence." },
+  { "cle": "couple", "titre": "À deux", "sous": "Thérapie de couple", "image": "salle-couple", "alt": "Le salon de thérapie de couple : trois sièges en cercle autour d'une petite table",
+    "texte": "Prendre en compte la crise que traverse le couple pour en faire une occasion de mieux vivre ensemble." },
+  { "cle": "enfant", "titre": "Pour votre enfant", "sous": "Enfants et adolescents", "image": "salle-enfant", "alt": "Le coin des enfants : jouets, livres, crayons et petit tabouret",
+    "texte": "Le jeu, le dessin et le récit pour dire ce qui n'a pas encore de mots, et les parents comme partenaires." }
+]

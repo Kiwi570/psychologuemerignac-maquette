@@ -1,0 +1,570 @@
+{
+  "site": "https://www.psychologuemerignac.com/",
+  "date": "2026-11-20T20:09:37.050Z",
+  "pages": [
+    "https://www.psychologuemerignac.com/",
+    "https://www.psychologuemerignac.com/contact",
+    "https://www.psychologuemerignac.com/formationmedico-social/app-page",
+    "https://www.psychologuemerignac.com/formation-sant%C3%A9-mentale",
+    "https://www.psychologuemerignac.com/formationmedico-social/formation-cnvdanslessoins",
+    "https://www.psychologuemerignac.com/formationmedico-social/advf",
+    "https://www.psychologuemerignac.com/formationmedico-social",
+    "https://www.psychologuemerignac.com/psy-merignac",
+    "https://www.psychologuemerignac.com/psychotherapies-enfants",
+    "https://www.psychologuemerignac.com/therapie-de-couple",
+    "https://www.psychologuemerignac.com/psychotherapies-adultes",
+    "https://www.psychologuemerignac.com/sur-le-terrain",
+    "https://www.psychologuemerignac.com/mentions-l%C3%A9gales",
+    "https://www.psychologuemerignac.com/confidentialite",
+    "https://www.psychologuemerignac.com/r%C3%A9clamations-generales",
+    "https://www.psychologuemerignac.com/s-inscrire",
+    "https://www.psychologuemerignac.com/cgv",
+    "https://www.psychologuemerignac.com/situation-de-handicap",
+    "https://www.psychologuemerignac.com/livret-d-accueil",
+    "https://www.psychologuemerignac.com/r%C3%A9glement-interieur",
+    "https://www.psychologuemerignac.com/reclamation-ordinaire",
+    "https://www.psychologuemerignac.com/vioneces-sexistes",
+    "https://www.psychologuemerignac.com/"
+  ],
+  "images": [
+    {
+      "fichier": "logo.jpg",
+      "nom": "logo",
+      "origine": "https://static.wixstatic.com/media/b32d6d_94d3e7b7e90f4473b7d011bbf75c2d63~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/formationmedico-social",
+      "pages": 22,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Bandeau de couleur menthe et orange",
+        "legende": "",
+        "titre": "",
+        "section": "✅ Une expertise reconnue par le terrain",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 686,
+      "hauteur": 383,
+      "poids": 224669,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "principale"
+    },
+    {
+      "fichier": "logo-2.jpg",
+      "nom": "logo-2",
+      "origine": "https://static.wixstatic.com/media/b32d6d_90db078d5b8a414ba1aa6e35939b78b7~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "téléchargement logo qualiopi",
+        "legende": "",
+        "titre": "",
+        "section": "En savoir plus ...",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 633,
+      "hauteur": 338,
+      "poids": 31893,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "logo-3.jpg",
+      "nom": "logo-3",
+      "origine": "https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/confidentialite",
+      "pages": 12,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "papillon du logo du cabinet la Forêt",
+        "legende": "",
+        "titre": "",
+        "section": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 500,
+      "hauteur": 344,
+      "poids": 27722,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "image-montre-salon-se.jpg",
+      "nom": "image-montre-salon-se",
+      "origine": "https://static.wixstatic.com/media/b32d6d_925a0b4530444d98a25068b274569ad3~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "L'image montre le salon où se déroule la thérapie de couple avec 3 sièges confortables pour le couple et la thérapeute et au centre une peti",
+        "legende": "",
+        "titre": "",
+        "section": "PSYCHOLOGUE Mérignac - Bordeaux métropole",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1192,
+      "largeur_origine": 3000,
+      "hauteur_origine": 1788,
+      "poids": 424439,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "portrait"
+    },
+    {
+      "fichier": "image-montre-cabinet-psychotherapie.jpg",
+      "nom": "image-montre-cabinet-psychotherapie",
+      "origine": "https://static.wixstatic.com/media/b32d6d_c4f466559603433b890e62e82bf3f418~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Cette image montre le cabinet de psychothérapie enfant avec des jouets et des livres et des crayons de couleurs pour permettre à l'enfant de",
+        "legende": "",
+        "titre": "",
+        "section": "PSYCHOTHÉRAPIE ADULTE",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 1622,
+      "hauteur": 913,
+      "poids": 288322,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "image-montre-interieur-lumineux.jpg",
+      "nom": "image-montre-interieur-lumineux",
+      "origine": "https://static.wixstatic.com/media/b32d6d_583026ec0f254a2388f1bf8425b91c6e~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Cette image montre l'intérieur lumineux du cabinet de psychothérapie adulte avec 2 fauteuils confortables et inclinables en cuir pour le thé",
+        "legende": "",
+        "titre": "",
+        "section": "En savoir plus...",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 1280,
+      "hauteur": 906,
+      "poids": 174425,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "formation-intervenantes-sad-auxileo.jpg",
+      "nom": "formation-intervenantes-sad-auxileo",
+      "origine": "https://static.wixstatic.com/media/b32d6d_900483fc877d47c9b79f5b5a140c573d~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Formation des intervenantes du SAD Auxiléo Service le Bouscat 2026",
+        "legende": "",
+        "titre": "",
+        "section": "je suis à votre disposition pour en discuter...",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 1225,
+      "hauteur": 919,
+      "poids": 246044,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "image-montre-seances-app.jpg",
+      "nom": "image-montre-seances-app",
+      "origine": "https://static.wixstatic.com/media/b32d6d_b88fee623dca43679aa1856067ed8ece~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "L'image montre une séances d'APP avec 5 infirieres et aides-soignantes et la formatrice Françoise GADY à l'Ehpad La Canopée à Bordeaux, dans",
+        "legende": "",
+        "titre": "",
+        "section": "​​​​​ NOS FORMATIONS 👉 ANALYSE DES PRATIQUES PROFESSIONNELLES 👉 ​​​ ​",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 800,
+      "hauteur": 600,
+      "poids": 109081,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "image-montre-exterieur-cabinet.jpg",
+      "nom": "image-montre-exterieur-cabinet",
+      "origine": "https://static.wixstatic.com/media/b32d6d_e5ac7cdefaf548fc937ac7bd334f6b2c~mv2_d_4752_2286_s_2.jpg",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "L'image montre l' extérieur du cabinet de la Forêt Françoise GADY Psychologue . Il s'agit d'une vue depuis l'avenue de la Forêt et on voit l",
+        "legende": "",
+        "titre": "",
+        "section": "Le cabinet de la Forêt se situe au nord de Mérignac",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 962,
+      "largeur_origine": 4752,
+      "hauteur_origine": 2286,
+      "poids": 400454,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "image-montre-bureau-cabinet.jpg",
+      "nom": "image-montre-bureau-cabinet",
+      "origine": "https://static.wixstatic.com/media/b32d6d_037bf39dccd846b1ae258df513525ebb~mv2_d_1836_3264_s_2.jpg",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "L'image montre le Bureau du cabinet de psychologie de la Forêt à Mérignac , bureau en bois , de style Louis Philippe et au mur une image de ",
+        "legende": "",
+        "titre": "",
+        "section": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 1125,
+      "hauteur": 2000,
+      "largeur_origine": 1836,
+      "hauteur_origine": 3264,
+      "poids": 192636,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "cb-scout5-hdpi.png",
+      "nom": "cb-scout5-hdpi",
+      "origine": "https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5_hdpi.png",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": "cb_scout5_hdpi"
+      },
+      "largeur": 430,
+      "hauteur": 1670,
+      "poids": 104139,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac.webp",
+      "nom": "psychologue-clinicienne-merignac",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8162!3i5903!4i256!2m3!1e4!2st!3i804!2m3!1e0!2sr!3i804570536!3m12!2sfr!3sFR!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=7680",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 49792,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac-2.webp",
+      "nom": "psychologue-clinicienne-merignac-2",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8163!3i5903!4i256!2m3!1e4!2st!3i804!2m3!1e0!2sr!3i804570536!3m12!2sfr!3sFR!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=19770",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 54866,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac-3.webp",
+      "nom": "psychologue-clinicienne-merignac-3",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8162!3i5902!4i256!2m3!1e4!2st!3i804!2m3!1e0!2sr!3i804570536!3m12!2sfr!3sFR!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=105634",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 52702,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "psychologue-clinicienne-merignac-4.webp",
+      "nom": "psychologue-clinicienne-merignac-4",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8163!3i5902!4i256!2m3!1e4!2st!3i804!2m3!1e0!2sr!3i804570536!3m12!2sfr!3sFR!5e18!12m4!1e68!2m2!1sset!2sTerrain!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=117724",
+      "page": "https://www.psychologuemerignac.com/contact",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 48814,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "formation-intervenantes-sad-auxileo-2.jpg",
+      "nom": "formation-intervenantes-sad-auxileo-2",
+      "origine": "https://static.wixstatic.com/media/b32d6d_59915f96a33247f3a4c1296621366ae7~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/formationmedico-social",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Formation intervenantes SAD Auxiléo Services Le Bouscat 2026",
+        "legende": "",
+        "titre": "",
+        "section": "​ CABINET DE FORMATION DE LA FORÊT certifié QUALIOPI à Mérignac- Bordeaux métropole FORMATION PROFESSIONNELLE CONTINUE IDE, AS, AVS, ADVF, A",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 1225,
+      "hauteur": 919,
+      "poids": 286318,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "sitographie-psy.jpg",
+      "nom": "sitographie-psy",
+      "origine": "https://static.wixstatic.com/media/b32d6d_fa47aa5ed9f245ba9ce586dd9ea4799a~mv2_d_2000_1438_s_2.jpg",
+      "page": "https://www.psychologuemerignac.com/psy-merignac",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "SITOGRAPHIE PSY",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1438,
+      "poids": 267021,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "image-montre-salon-therapie.jpg",
+      "nom": "image-montre-salon-therapie",
+      "origine": "https://static.wixstatic.com/media/b32d6d_a7079b2989c84d4b9119c5d720d99dca~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/therapie-de-couple",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "L'image montre le salon de thérapie de couple au cabinet de la forêt à Mérignac , les fauteuils installes en cercle autour d'une petite tabl",
+        "legende": "",
+        "titre": "",
+        "section": "DEUX AXES DE LA THÉRAPIE DE COUPLE",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 1958,
+      "hauteur": 2000,
+      "largeur_origine": 2788,
+      "hauteur_origine": 2848,
+      "poids": 680415,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "handucaps-visibles-invisibles-cabinet.jpg",
+      "nom": "handucaps-visibles-invisibles-cabinet",
+      "origine": "https://static.wixstatic.com/media/b32d6d_0038f4590c364469ba5a32cde8c8f3c4~mv2.jpg",
+      "page": "https://www.psychologuemerignac.com/situation-de-handicap",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "handucaps visibles et invisibles au cabinet de la forêt à Mérignac",
+        "legende": "",
+        "titre": "",
+        "section": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "page": "Psychologue clinicienne - Mérignac | THÉRAPIES & FORMATIONS Françoise GADY",
+        "fichier_origine": ""
+      },
+      "largeur": 605,
+      "hauteur": 313,
+      "poids": 134417,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    }
+  ],
+  "ecartees": [
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_ead32d61e60f42938c4aab55ae775de8~mv2.png",
+      "raison": "repetee sur 22/23 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_1789370511fd4806afab3af4754c614c~mv2.png",
+      "raison": "repetee sur 22/23 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_d33a038de7924e4282ada7b6067cbdbf~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_818a4cf2df8d4b68a880d2fadec2e8a3~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_13e56e9174714d5bb48984ca93140107~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_d50faeab2ccf4b6f96c25cc1b2b24a8d~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_c54b329de9d84979892e8649b42d6a1f~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_4dca6b3c76604e7f8ca3322548e7dcaa~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_33d00830297f42f9ac2b90ef0fde3089~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/40d80b8089c8418a961cb75d96d491f7.png",
+      "raison": "repetee sur 22/23 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_3e92fd77d5394867985ae28c02983af2~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_fe1555cb74b841ec8f3aac507acbbdca.jpg",
+      "raison": "repetee sur 22/23 pages"
+    },
+    {
+      "url": "https://static.parastorage.com/services/santa-resources/resources/editor/designPanel/panelTypes/default_pin_icon.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_cce82fff161f4f9ab021c0ca6d1d72a9~mv2.jpg",
+      "raison": "288 px de large"
+    },
+    {
+      "url": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i2089485&2i1511049&2e2&3u14&4m2&1u297&2u272&5m6&1e4&5sfr&6sfr&10b1&12b1&14i47083502&8e1&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=92896",
+      "raison": "297 px de large"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+      "raison": "echec : Input buffer contains unsupported image format"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/api-3/images/drag-cross_hdpi.png",
+      "raison": "26 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_c6d2da0919b249debb3fc9474d10453e~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_c4f466559603433b890e62e82bf3f418~mv2.jpg en 1622x913"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_9a862d7b0097443489b554023e68dd04~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_b88fee623dca43679aa1856067ed8ece~mv2.jpg en 800x600"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_a33c23066e694e9999351014e7c3e369~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_94d3e7b7e90f4473b7d011bbf75c2d63~mv2.jpg en 686x383"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_7e8780f4824e4f63847c63d4d3ad7e8e~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg en 500x344"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_ba5ac3b72dfe41beb4385801f75ac318~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg en 500x344"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_c47fd820dc664559a6269392fc1669c1~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg en 500x344"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_fa8b3bdb29d04431ae51e4b49e7d17d9~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg en 500x344"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_03d16ba4ec9949b3b9172091969c9644~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg en 500x344"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/b32d6d_088ed1c360574f91a5fd73061da0a60f~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/b32d6d_f482b55c973445cdb60b04fb3d270029~mv2.jpg en 499x344"
+    }
+  ]
+}

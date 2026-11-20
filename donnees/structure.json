@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": ["LocalBusiness", "MedicalBusiness"],
+  "name": "Cabinet de la Forêt — Françoise Gady, psychologue clinicienne",
+  "url": "https://psychologuemerignac-maquette.vercel.app/",
+  "telephone": "+33672991059",
+  "email": "f.gady@hotmail.fr",
+  "address": { "@type": "PostalAddress", "streetAddress": "21 avenue de la Forêt", "postalCode": "33700", "addressLocality": "Mérignac", "addressCountry": "FR" },
+  "openingHours": "Sur rendez-vous, de 9 h à 20 h 30",
+  "founder": { "@type": "Person", "name": "Françoise Gady", "jobTitle": "Psychologue clinicienne, cadre de santé et formatrice" },
+  "description": "Psychothérapies adultes, couples, enfants et adolescents, et formations pour les équipes du médico-social, à Mérignac (Bordeaux Métropole)."
+}
