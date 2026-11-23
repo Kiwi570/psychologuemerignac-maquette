@@ -1,16 +1,13 @@
 {
- "id": "20261120-222954-complet-cible-partiel",
- "date": "2026-11-20T22:34:38.936Z",
+ "id": "20261123-135448-complet-cible",
+ "date": "2026-11-23T13:59:07.425Z",
  "niveau": "complet",
- "pages": "/,/404,/cabinet,/therapies,/contact",
- "etapes": [
-  "fichiers",
-  "mesures"
- ],
- "version": "1",
+ "pages": "/contact",
+ "etapes": "toutes",
+ "version": "2",
  "echecs": 0,
- "aRegarder": 9,
- "nonLances": 0,
+ "aRegarder": 5,
+ "nonLances": 1,
  "manquants": 0,
  "statut": "complet"
 }

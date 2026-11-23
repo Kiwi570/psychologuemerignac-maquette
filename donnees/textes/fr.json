@@ -25,7 +25,8 @@
     "urgenceCourt": "En cas d'urgence : 3114 (prévention du suicide, 24 h/24) ou SECOP, CH Charles Perrens, 05 56 56 34 34.",
     "pagesTitre": "Pages",
     "coordonnees": "Coordonnées",
-    "itineraire": "Itinéraire"
+    "itineraire": "Itinéraire",
+    "guide": "Papillon guide"
   },
   "pages": {
     "accueil": {
@@ -83,7 +84,8 @@
       "porteG": "Consulter",
       "porteGSous": "Adultes · Couples · Enfants et adolescents",
       "porteD": "Former vos équipes",
-      "porteDSous": "EHPAD · Aide à domicile · Établissements de santé"
+      "porteDSous": "EHPAD · Aide à domicile · Établissements de santé",
+      "papillon": "Faire voler le papillon"
     },
     "manifeste": {
       "citation": "Faire le pas d'entreprendre une thérapie, c'est déjà démarrer le processus thérapeutique.",
@@ -101,11 +103,15 @@
       "surtitre": "Le cabinet",
       "titre": "Au nord de Mérignac, un cabinet au calme",
       "texte": "Avenue de la Forêt, dans la verdure : une salle pour les adultes, un salon pour les couples, un coin pour les enfants avec jouets, livres et crayons.",
-      "p1": "Séances d'environ 45 minutes",
-      "p2": "Sur rendez-vous, de 9 h à 20 h 30",
-      "p3": "Tarif communiqué lors du premier échange",
-      "p4": "Supervision régulière, dans le respect de l'anonymat",
-      "lien": "Découvrir le cabinet"
+      "lien": "Découvrir le cabinet",
+      "r1v": "45 min",
+      "r1t": "par séance, en face à face",
+      "r2v": "9 h – 20 h 30",
+      "r2t": "sur rendez-vous",
+      "r3v": "Premier échange",
+      "r3t": "pour faire connaissance et connaître le tarif",
+      "r4v": "Supervisée",
+      "r4t": "une pratique régulièrement supervisée, dans le respect de l'anonymat"
     },
     "approche": {
       "surtitre": "L'approche",
@@ -143,12 +149,13 @@
       "lien": "Son parcours"
     },
     "fin": {
-      "titre": "Faire le pas",
       "texte": "Un premier échange, par téléphone ou par message, pour faire connaissance et convenir d'un rendez-vous.",
       "moi": "Pour moi",
       "couple": "Pour notre couple",
       "enfant": "Pour mon enfant",
-      "equipe": "Pour mon équipe"
+      "equipe": "Pour mon équipe",
+      "titre1": "Faire le",
+      "titreMot": "pas"
     }
   },
   "therapies": {
@@ -370,11 +377,12 @@
   "contact": {
     "ouv": {
       "surtitre": "Contact et rendez-vous",
-      "titre": "Prendre rendez-vous",
+      "titre": "Prendre",
       "texte": "Par téléphone, c'est le plus simple. Vous pouvez aussi laisser un message : Françoise Gady vous rappelle.",
       "action": "Appeler le 06 72 99 10 59",
       "info": "Sur rendez-vous, de 9 h à 20 h 30",
-      "emailTitre": "Par e-mail"
+      "emailTitre": "Par e-mail",
+      "titreMot": "rendez-vous"
     },
     "form": {
       "titre": "Laisser un message",

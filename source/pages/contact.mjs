@@ -10,7 +10,7 @@ export default (c) => html`
   <div class="tete-texte">
     <p class="surtitre ouv-anim">${c.t('contact.ouv.surtitre')}</p>
     <div class="contact-titre">
-      <h1 class="tete-titre" data-anime="gsap"><span class="ouv-ligne"><span class="ouv-l">${c.t('contact.ouv.titre')}</span></span></h1>
+      <h1 class="tete-titre" data-anime="gsap" data-grille="typo"><span class="ouv-ligne"><span class="ouv-l">${c.t('contact.ouv.titre')}</span></span><span class="ouv-ligne"><span class="ouv-l"><em data-pinceau>${c.t('contact.ouv.titreMot')}</em></span></span></h1>
       <div class="contact-papillon" data-iris-centre aria-hidden="true">${papillon('pap-contact', { classe: 'papillon-pose', attrs: 'data-effet="pose"' })}</div>
     </div>
     <p class="ouv-anim">${c.t('contact.ouv.texte')}</p>
@@ -58,7 +58,7 @@ export default (c) => html`
     <div class="champ"><label for="f-email">${c.t('contact.form.email')}</label><input id="f-email" name="email" type="email" autocomplete="email"></div>
     <div class="champ"><label for="f-message">${c.t('contact.form.message')}</label><textarea id="f-message" name="message" rows="4" aria-describedby="f-message-aide"></textarea><p class="aide" id="f-message-aide">${c.t('contact.form.messageAide')}</p></div>
     <p class="mention-donnees">${c.t('contact.form.donnees')}</p>
-    <button type="submit" class="bouton">${c.t('contact.form.envoyer')}</button>
+    <button type="submit" class="bouton" data-grille="retour">${c.t('contact.form.envoyer')}</button>
     <p data-message-envoi data-texte="${c.s('contact.form.simule')}" role="status" tabindex="-1" hidden></p>
   </form>
 </section>

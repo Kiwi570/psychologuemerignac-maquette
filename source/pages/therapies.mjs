@@ -9,7 +9,7 @@ export default (c) => html`
 <section class="tete-scindee conteneur" id="debut">
   <div class="tete-texte">
     <p class="surtitre ouv-anim">${c.t('therapies.ouv.surtitre')}</p>
-    <h1 class="tete-titre" data-anime="gsap"><span class="ouv-ligne"><span class="ouv-l">${c.t('therapies.ouv.titre1')}</span></span><span class="ouv-ligne"><span class="ouv-l"><em>${c.t('therapies.ouv.titre2')}</em></span></span></h1>
+    <h1 class="tete-titre" data-anime="gsap" data-grille="typo"><span class="ouv-ligne"><span class="ouv-l">${c.t('therapies.ouv.titre1')}</span></span><span class="ouv-ligne"><span class="ouv-l"><em data-pinceau>${c.t('therapies.ouv.titre2')}</em></span></span></h1>
     <p class="ouv-anim masque-ecran-tres-bas">${c.t('therapies.ouv.texte')}</p>
     <p class="ouv-anim">${c.lien('contact', { ancre: 'formulaire', classe: 'bouton', texte: c.t('therapies.ouv.action'), attrs: 'data-action-principale data-survol="magnetique"' })}</p>
     <p class="ouv-info ouv-anim" data-info-cle>${c.t('therapies.ouv.info')}</p>

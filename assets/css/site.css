@@ -548,3 +548,50 @@ html:not(.js) .introuvable { min-height: calc(100svh - 120px); padding-top: 0; }
   .tete-texte > p:not(.surtitre):not(.ouv-info):not(:has(.bouton)), .introuvable-contenu > p:not(.ouv-info):not(:has(.bouton)), .introuvable-papillon { display: none; }
   .tete-scindee .surtitre, .tete-mosaique .surtitre { margin-bottom: .4rem; }
 }
+
+/* ── v2 ─────────────────────────────────────────────────────────────── */
+/* Papillon de l'accueil : un vrai bouton, il s'envole au clic. */
+.ouv-papillon { pointer-events: auto; border: 0; padding: 0; cursor: pointer; color: inherit; }
+.ouv-papillon:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+.ouv-vol { display: grid; place-items: center; width: 74%; }
+.ouv-vol .papillon-ouv { width: 100%; }
+
+/* Trait de pinceau sous le mot fort d'un titre : SVG posé par site.js à côté du titre, jamais dedans. */
+.pinceau-hote { position: relative; }
+.pinceau { position: absolute; left: 0; top: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; z-index: 0; }
+.pinceau path { fill: none; stroke: var(--pap-orange); stroke-linecap: round; stroke-linejoin: round; }
+.pinceau path + path { opacity: .55; }
+.fond-sapin .pinceau path, .fin-foret .pinceau path { stroke: var(--moutarde); }
+.fin-foret :is(h1, h2) em { color: var(--accent-clair); }
+:is(h1, h2):has([data-pinceau]) { position: relative; z-index: 1; }
+
+/* Papillon guide : il se pose à côté du surtitre de la section qu'on lit. */
+.guide { position: fixed; left: 0; top: 0; z-index: 30; width: 40px; pointer-events: none; opacity: 0; will-change: transform, opacity; }
+.guide-papillon { width: 100%; height: auto; overflow: visible; }
+@media (max-width: 760px) { .guide { width: 30px; } }
+html:not(.js) .guide, html.secours .guide { display: none; }
+
+/* Grand papillon qui éclot à côté de la citation. */
+.manifeste .conteneur { position: relative; }
+.eclosion { position: absolute; right: 0; top: -2%; width: clamp(220px, 30vw, 440px); pointer-events: none; }
+.papillon-eclosion { width: 100%; height: auto; overflow: visible; }
+@media (max-width: 900px) { .eclosion { position: relative; width: 150px; margin: 0 0 -10px auto; top: 0; } }
+
+/* Le cabinet : grands repères. */
+.lieu { row-gap: clamp(36px, 5vw, 64px); }
+.reperes { grid-column: 1 / -1; list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: clamp(14px, 2vw, 28px); }
+.reperes li { display: grid; gap: 6px; align-content: start; padding-top: 16px; border-top: 2px solid var(--moutarde); }
+.reperes strong { font: 360 clamp(1.7rem, 1.2rem + 1.6vw, 2.7rem)/1.05 var(--police-titres); font-variation-settings: 'SOFT' 100; color: var(--sapin); }
+.reperes span { color: var(--texte-doux); }
+@media (max-width: 900px) { .reperes { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* Thérapies : objectifs recentrés. */
+.objectifs { margin-inline: auto; text-align: center; max-width: 32ch; }
+
+/* Appels finaux plus resserrés. */
+.appel { padding-block: clamp(64px, 8vw, 110px); }
+.fin-fenetre .fin-foret-media::after { background: linear-gradient(90deg, rgba(20, 36, 31, .88) 0%, rgba(20, 36, 31, .66) 45%, rgba(20, 36, 31, .15) 85%); }
+.fin-fenetre { min-height: min(80svh, 760px); }
+
+/* Envol depuis le bouton d'envoi. */
+.envol-envoi { position: fixed; left: 0; top: 0; width: 46px; z-index: 900; pointer-events: none; }

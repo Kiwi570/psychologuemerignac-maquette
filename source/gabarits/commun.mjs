@@ -152,6 +152,7 @@ ${entete(c)}
 <main id="contenu" tabindex="-1"${c.page.sansAction ? brut(' data-sans-action') : ''}${c.page.sansEffet ? brut(' data-sans-effet') : ''}>
 ${contenu}
 </main>
+<div class="guide" aria-hidden="true" data-audit-ignorer data-superpose data-grille="fil" data-effet="guide">${papillon('pap-guide', { classe: 'guide-papillon' })}</div>
 ${pied(c)}
 ${barre(c)}
 </body>

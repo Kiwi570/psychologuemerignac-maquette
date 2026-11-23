@@ -14,7 +14,7 @@ export default (c) => html`
   <div class="ouv-haut conteneur">
     <div class="ouv-titre-bloc">
       <p class="surtitre ouv-anim">${c.t('accueil.ouv.surtitre')}</p>
-      <h1 class="ouv-titre" data-anime="gsap"><span class="ouv-ligne"><span class="ouv-l">${c.t('accueil.ouv.titre1')} <em>${c.t('accueil.ouv.titreMot')}</em></span></span><span class="ouv-ligne"><span class="ouv-l">${c.t('accueil.ouv.titre2')}</span></span></h1>
+      <h1 class="ouv-titre" data-anime="gsap" data-grille="typo"><span class="ouv-ligne"><span class="ouv-l">${c.t('accueil.ouv.titre1')} <em data-pinceau>${c.t('accueil.ouv.titreMot')}</em></span></span><span class="ouv-ligne"><span class="ouv-l">${c.t('accueil.ouv.titre2')}</span></span></h1>
     </div>
     <div class="ouv-cote ouv-anim">
       <p class="ouv-texte masque-ecran-bas">${c.t('accueil.ouv.texte')}</p>
@@ -31,12 +31,13 @@ export default (c) => html`
       ${c.media({ nom: 'formation-groupe', alt: 'Françoise Gady avec les intervenantes d\'un service d\'aide à domicile, en formation', classe: 'porte-media', cadrage: '60% 62%', sizes: '(max-width: 760px) 100vw, 50vw' })}
       <span class="porte-etiquette"><strong>${c.t('accueil.ouv.porteD')}</strong><small>${c.t('accueil.ouv.porteDSous')}</small></span>
     </a>
-    <div class="ouv-papillon" data-iris-centre="disque">${papillon('pap-ouv', { trace: true, classe: 'papillon-ouv', attrs: 'data-effet="papillon"' })}</div>
+    <button type="button" class="ouv-papillon" data-iris-centre="disque" data-grille="manipuler" aria-label="${c.s('accueil.ouv.papillon')}"><span class="ouv-vol">${papillon('pap-ouv', { trace: true, classe: 'papillon-ouv', attrs: 'data-effet="papillon"' })}</span></button>
   </div>
 </section>
 
 <section class="manifeste" id="manifeste">
   <div class="conteneur">
+    <div class="eclosion" data-visuel aria-hidden="true">${papillon('pap-eclosion', { trace: true, classe: 'papillon-eclosion', attrs: 'data-effet="eclosion"' })}</div>
     <figure class="citation-bloc" data-effet="allumer">
       <blockquote class="citation"><p>${c.s('accueil.manifeste.citation').split(' ').map((m, i) => html`${i ? ' ' : ''}<span class="mot">${m}</span>`)}</p></blockquote>
       <figcaption data-anime>— ${c.t('accueil.manifeste.auteur')}</figcaption>
@@ -74,15 +75,15 @@ export default (c) => html`
     <p class="surtitre" data-anime>${c.t('accueil.cabinet.surtitre')}</p>
     <h2 data-anime="lignes">${c.t('accueil.cabinet.titre')}</h2>
     <p data-anime>${c.t('accueil.cabinet.texte')}</p>
-    <ul class="puces" data-anime="cascade">
-      <li>${c.t('accueil.cabinet.p1')}</li><li>${c.t('accueil.cabinet.p2')}</li><li>${c.t('accueil.cabinet.p3')}</li><li>${c.t('accueil.cabinet.p4')}</li>
-    </ul>
     <p data-anime>${c.lien('cabinet', { classe: 'lien-fleche', texte: c.t('accueil.cabinet.lien') })}</p>
   </div>
   <div class="lieu-images">
     ${c.media({ nom: 'bureau', alt: 'Le bureau en bois du cabinet, sous des cadres noir et blanc', classe: 'lieu-bureau', ratio: '3 / 4', sizes: '(max-width: 760px) 70vw, 30vw', attrs: 'data-fx="parallaxe"' })}
     ${c.media({ nom: 'facade', alt: 'L\'entrée du Cabinet de la Forêt, avenue de la Forêt, dans la verdure', classe: 'lieu-facade', ratio: '4 / 3', cadrage: '70% 45%', sizes: '(max-width: 760px) 45vw, 16vw', attrs: 'data-fx="vitesse"' })}
   </div>
+  <ul class="reperes" data-anime="cascade">
+    ${[1, 2, 3, 4].map((i) => html`<li><strong>${c.t('accueil.cabinet.r' + i + 'v')}</strong><span>${c.t('accueil.cabinet.r' + i + 't')}</span></li>`)}
+  </ul>
 </section>
 
 <section class="approche" id="approche">
@@ -155,7 +156,7 @@ export default (c) => html`
   ${c.media({ nom: 'grok/foret', alt: 'Chemin de sable entre les pins, dans la lumière du matin', classe: 'fin-foret-media', sizes: '100vw', attrs: 'data-fx="parallaxe" data-fx-force="8"' })}
   <div class="fin-foret-contenu conteneur">
     <div class="fin-envol" aria-hidden="true" data-superpose>${papillon('pap-envol', { classe: 'papillon-envol', attrs: 'data-effet="envol"' })}</div>
-    <h2 class="fin-titre" data-anime="lignes">${c.t('accueil.fin.titre')}</h2>
+    <h2 class="fin-titre" data-anime="lignes">${c.t('accueil.fin.titre1')} <em data-pinceau>${c.t('accueil.fin.titreMot')}</em></h2>
     <p data-anime>${c.t('accueil.fin.texte')}</p>
     <p class="fin-tel" data-anime><a href="tel:${c.site.contact.telephoneLien}">${c.site.contact.telephone}</a></p>
     <p class="fin-choix" data-anime="cascade">

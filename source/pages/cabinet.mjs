@@ -8,7 +8,7 @@ export default (c) => html`
 <section class="tete-mosaique conteneur" id="debut">
   <div class="tete-texte">
     <p class="surtitre ouv-anim">${c.t('cabinet.ouv.surtitre')}</p>
-    <h1 class="tete-titre" data-anime="gsap"><span class="ouv-ligne"><span class="ouv-l">${c.t('cabinet.ouv.titre1')}</span></span><span class="ouv-ligne"><span class="ouv-l"><em>${c.t('cabinet.ouv.titreMot')}</em></span></span></h1>
+    <h1 class="tete-titre" data-anime="gsap" data-grille="typo"><span class="ouv-ligne"><span class="ouv-l">${c.t('cabinet.ouv.titre1')}</span></span><span class="ouv-ligne"><span class="ouv-l"><em data-pinceau>${c.t('cabinet.ouv.titreMot')}</em></span></span></h1>
     <p class="ouv-anim masque-ecran-tres-bas">${c.t('cabinet.ouv.texte')}</p>
     <p class="ouv-anim">${c.lien('contact', { ancre: 'formulaire', classe: 'bouton', texte: c.t('cabinet.ouv.action'), attrs: 'data-action-principale data-survol="magnetique"' })}</p>
     <p class="ouv-info ouv-anim" data-info-cle>${c.t('cabinet.ouv.info')}</p>
@@ -88,13 +88,15 @@ export default (c) => html`
   <p class="partenaires" data-anime="mots">${c.t('cabinet.ressources.partenaires')}</p>
 </section>
 
-<section class="appel conteneur" id="venir">
-  <svg class="appel-trait" viewBox="0 0 400 120" aria-hidden="true" data-fx="trace"><path d="M4 90 C 90 10, 150 120, 220 50 S 330 30, 396 80" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></svg>
-  <h2 data-anime="lignes">${c.t('cabinet.fin.titre')}</h2>
-  <p data-anime>${c.t('cabinet.fin.texte')}</p>
-  <p class="actions" data-anime>
-    ${c.lien('contact', { ancre: 'formulaire', classe: 'bouton', texte: c.t('cabinet.fin.action'), attrs: 'data-survol="magnetique"' })}
-    ${c.lien('contact', { ancre: 'acces', classe: 'bouton bouton--contour', texte: c.t('commun.itineraire') })}
-  </p>
+<section class="fin-foret fin-fenetre" id="venir">
+  ${c.media({ nom: 'grok/fenetre', alt: 'Fenêtre ouverte sur les pins, rideau soulevé par le vent', classe: 'fin-foret-media', sizes: '100vw', attrs: 'data-fx="parallaxe" data-fx-force="8"' })}
+  <div class="fin-foret-contenu conteneur">
+    <h2 class="fin-titre" data-anime="lignes">${c.t('cabinet.fin.titre')}</h2>
+    <p data-anime>${c.t('cabinet.fin.texte')}</p>
+    <p class="fin-choix" data-anime>
+      ${c.lien('contact', { ancre: 'formulaire', classe: 'bouton bouton--clair', texte: c.t('cabinet.fin.action'), attrs: 'data-survol="magnetique"' })}
+      ${c.lien('contact', { ancre: 'acces', classe: 'bouton bouton--contour', texte: c.t('commun.itineraire') })}
+    </p>
+  </div>
 </section>
 `;
